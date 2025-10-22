@@ -157,7 +157,6 @@ flutter:
     # - assets/flavor/hadid/
     # - assets/flavor/mojadl/
     - assets/flavor/hashr/
-    - assets/flavor/hashr/quran.db
     # - assets/flavor/momtahn/
     # - assets/flavor/saf/
     # - assets/flavor/jome/
