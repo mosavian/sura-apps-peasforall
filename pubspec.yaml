@@ -1,0 +1,264 @@
+name: sura_apps_1_1
+description: "A new Flutter project."
+# The following line prevents the package from being accidentally published to
+# pub.dev using `flutter pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+# The following defines the version and build number for your application.
+# A version number is three numbers separated by dots, like 1.2.43
+# followed by an optional build number separated by a +.
+# Both the version and the builder number may be overridden in flutter
+# build by specifying --build-name and --build-number, respectively.
+# In Android, build-name is used as versionName while build-number used as versionCode.
+# Read more about Android versioning at https://developer.android.com/studio/publish/versioning
+# In iOS, build-name is used as CFBundleShortVersionString while build-number is used as CFBundleVersion.
+# Read more about iOS versioning at
+# https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
+# In Windows, build-name is used as the major, minor, and patch parts
+# of the product and file versions while build-number is used as the build suffix.
+version: 1.1.0+4
+
+environment:
+  sdk: ^3.9.2
+
+# Dependencies specify other packages that your package needs in order to work.
+# To automatically upgrade your package dependencies to the latest versions
+# consider running `flutter pub upgrade --major-versions`. Alternatively,
+# dependencies can be manually updated by changing the version numbers below to
+# the latest version available on pub.dev. To see which dependencies have newer
+# versions available, run `flutter pub outdated`.
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  flutter_localizations:
+    sdk: flutter
+  intl: ^0.20.2  
+  cupertino_icons: ^1.0.8
+  bloc: ^9.1.0
+  flutter_bloc: ^9.1.1
+  get_it: ^8.2.0
+  firebase_core: ^4.2.0
+  firebase_messaging: ^16.0.3
+  firebase_analytics: ^12.0.3
+  firebase_crashlytics: ^5.0.3
+  lottie: ^3.3.2
+  dio: ^5.9.0
+  shared_preferences: ^2.5.3
+  sqflite: ^2.4.2
+  path_provider: ^2.1.5
+  path: ^1.9.1
+  package_info_plus: ^9.0.0
+  archive: ^4.0.7
+  just_audio: ^0.10.5
+  scrollable_positioned_list: ^0.3.8
+  google_mobile_ads: ^6.0.0
+  url_launcher: ^6.3.2
+  flutter_rating_bar: ^4.0.1
+  flutter_timezone: ^4.1.1
+  in_app_review: ^2.0.11
+  flutter_native_splash: ^2.4.7
+  ivar_mobile_ads:
+    git:
+      url: https://github.com/ramezaniivar/ivar_mobile_ads.git
+      ref: v0.4.2  
+  crypto: ^3.0.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  # The "flutter_lints" package below contains a set of recommended lints to
+  # encourage good coding practices. The lint set provided by the package is
+  # activated in the `analysis_options.yaml` file located at the root of your
+  # package. See that file for information about deactivating specific lint
+  # rules and activating additional ones.
+  flutter_lints: ^5.0.0
+  flutter_flavorizr: ^2.4.1
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter packages.
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  generate: true  # این بخش برای auto-generation فایل‌های localization  
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/data/
+    - assets/rate/
+    - assets/donate/
+    - assets/images/
+    - assets/images/qari/
+    - assets/images/translator/
+    # - assets/flavor/fatiha/
+    # - assets/flavor/baqareh/
+    # - assets/flavor/emran/
+    # - assets/flavor/nesa/
+    # - assets/flavor/maede/
+    # - assets/flavor/anam/
+    # - assets/flavor/eraf/
+    # - assets/flavor/anfal/
+    # - assets/flavor/tobeh/
+    # - assets/flavor/yones/
+    # - assets/flavor/hod/
+    # - assets/flavor/usef/
+    # - assets/flavor/raad/
+    # - assets/flavor/ebrahim/
+    # - assets/flavor/hajar/
+    # - assets/flavor/nahl/
+    # - assets/flavor/esra/
+    # - assets/flavor/kahf/
+    # - assets/flavor/maryam/
+    # - assets/flavor/taha/
+    # - assets/flavor/anbya/
+    # - assets/flavor/haj/
+    # - assets/flavor/momenon/
+    # - assets/flavor/nor/
+    # - assets/flavor/forghan/
+    # - assets/flavor/shoara/
+    # - assets/flavor/naml/
+    # - assets/flavor/ghesas/
+    # - assets/flavor/ankaboot/
+    # - assets/flavor/rom/
+    # - assets/flavor/loghman/
+    # - assets/flavor/sajdeh/
+    # - assets/flavor/ahzab/
+    # - assets/flavor/saba/
+    # - assets/flavor/fater/
+    # - assets/flavor/yasin/
+    # - assets/flavor/safat/
+    # - assets/flavor/sad/
+    # - assets/flavor/zmr/
+    # - assets/flavor/qafr/
+    # - assets/flavor/fslat/
+    # - assets/flavor/shora/
+    # - assets/flavor/zkhrf/
+    # - assets/flavor/dokhan/
+    # - assets/flavor/jasieh/
+    # - assets/flavor/ahghaf/
+    # - assets/flavor/mhmd/
+    # - assets/flavor/fath/
+    # - assets/flavor/hojrat/
+    # - assets/flavor/ghaf/
+    # - assets/flavor/zariyat/
+    # - assets/flavor/tor/
+    # - assets/flavor/najm/
+    # - assets/flavor/ghamar/
+    # - assets/flavor/alrahman/
+    # - assets/flavor/vaqee/
+    # - assets/flavor/hadid/
+    # - assets/flavor/mojadl/
+    - assets/flavor/hashr/
+    - assets/flavor/hashr/quran.db
+    # - assets/flavor/momtahn/
+    # - assets/flavor/saf/
+    # - assets/flavor/jome/
+    # - assets/flavor/mnfghn/
+    # - assets/flavor/tghbn/
+    # - assets/flavor/talagh/
+    # - assets/flavor/tahrim/
+    # - assets/flavor/molk/
+    # - assets/flavor/qlm/
+    # - assets/flavor/haqe/
+    # - assets/flavor/mraj/
+    # - assets/flavor/noh/
+    # - assets/flavor/jen/
+    # - assets/flavor/mozamel/
+    # - assets/flavor/mdser/
+    # - assets/flavor/ghiyamt/
+    # - assets/flavor/nsan/
+    # - assets/flavor/mrslt/
+    # - assets/flavor/naba/
+    # - assets/flavor/nazat/
+    # - assets/flavor/abas/
+    # - assets/flavor/takwir/
+    # - assets/flavor/nftar/
+    # - assets/flavor/mtffin/
+    # - assets/flavor/nshqaq/
+    # - assets/flavor/broj/
+    # - assets/flavor/taregh/
+    # - assets/flavor/ala/
+    # - assets/flavor/qashie/
+    # - assets/flavor/fajr/
+    # - assets/flavor/balad/
+    # - assets/flavor/shams/
+    # - assets/flavor/layl/
+    # - assets/flavor/zoha/
+    # - assets/flavor/sharh/
+    # - assets/flavor/tin/
+    # - assets/flavor/alaq/
+    # - assets/flavor/qadr/
+    # - assets/flavor/bayyina/
+    # - assets/flavor/zalzalah/
+    # - assets/flavor/adiyat/
+    # - assets/flavor/qariah/
+    # - assets/flavor/takathur/
+    # - assets/flavor/asr/
+    # - assets/flavor/humazah/
+    # - assets/flavor/fil/
+    # - assets/flavor/quraysh/
+    # - assets/flavor/maun/
+    # - assets/flavor/kawthar/
+    # - assets/flavor/kafirun/
+    # - assets/flavor/nasr/
+    # - assets/flavor/masad/
+    # - assets/flavor/ikhlas/
+    # - assets/flavor/falaq/
+    # - assets/flavor/nas/
+    # - images/a_dot_ham.jpeg
+
+  # An image asset can refer to one or more resolution-specific "variants", see
+  # https://flutter.dev/to/resolution-aware-images
+
+  # For details regarding adding assets from package dependencies, see
+  # https://flutter.dev/to/asset-from-package
+
+  # To add custom fonts to your application, add a fonts section here,
+  # in this "flutter" section. Each entry in this list should have a
+  # "family" key with the font family name, and a "fonts" key with a
+  # list giving the asset and other descriptors for the font. For
+  # example:
+  fonts:
+    - family: UthmanTaha
+      fonts:
+        - asset: assets/fonts/uthmantn1.ttf
+    - family: IranSans
+      fonts:
+        - asset: assets/fonts/iransansmobile.ttf
+    - family: Samim
+      fonts:
+        - asset: assets/fonts/fontsamim.ttf        
+    - family: Vazir
+      fonts:
+        - asset: assets/fonts/vazir/Vazirmatn-Black.ttf
+          weight: 900
+        - asset: assets/fonts/vazir/Vazirmatn-Bold.ttf
+          weight: 800
+        - asset: assets/fonts/vazir/Vazirmatn-ExtraBold.ttf
+          weight: 700
+        - asset: assets/fonts/vazir/Vazirmatn-ExtraLight.ttf
+          weight: 600
+        - asset: assets/fonts/vazir/Vazirmatn-Light.ttf
+          weight: 500
+        - asset: assets/fonts/vazir/Vazirmatn-Medium.ttf
+          weight: 400
+        - asset: assets/fonts/vazir/Vazirmatn-Regular.ttf
+          weight: 300
+        - asset: assets/fonts/vazir/Vazirmatn-SemiBold.ttf
+          weight: 200
+        - asset: assets/fonts/vazir/Vazirmatn-Thin.ttf        
+          weight: 100
+    - family: MingCute
+      fonts:
+        - asset: assets/fonts/MingCute.ttf  
+  #
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.dev/to/font-from-package

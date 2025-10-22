@@ -1,0 +1,580 @@
+{
+  "project_info": {
+    "project_number": "410391646647",
+    "project_id": "quran-2",
+    "storage_bucket": "quran-2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410391646647:android:d3b12eeef6926db82a1832",
+        "android_client_info": {
+          "package_name": "com.ario.abas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX8GO6F7jkx3v4k7b3SDi3hAyZyZmZSgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410391646647:android:409b4eaa291c7b3c2a1832",
+        "android_client_info": {
+          "package_name": "com.ario.fath"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX8GO6F7jkx3v4k7b3SDi3hAyZyZmZSgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410391646647:android:45412ed184fb66c02a1832",
+        "android_client_info": {
+          "package_name": "com.ario.fslat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX8GO6F7jkx3v4k7b3SDi3hAyZyZmZSgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410391646647:android:e5c6a2e5575b44632a1832",
+        "android_client_info": {
+          "package_name": "com.ario.ghaf"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX8GO6F7jkx3v4k7b3SDi3hAyZyZmZSgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410391646647:android:1509ad462bc12bf32a1832",
+        "android_client_info": {
+          "package_name": "com.ario.ghamar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX8GO6F7jkx3v4k7b3SDi3hAyZyZmZSgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410391646647:android:0de92bb659eba13e2a1832",
+        "android_client_info": {
+          "package_name": "com.ario.ghiyamt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX8GO6F7jkx3v4k7b3SDi3hAyZyZmZSgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410391646647:android:347ff0aa5e9e53a22a1832",
+        "android_client_info": {
+          "package_name": "com.ario.hadid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX8GO6F7jkx3v4k7b3SDi3hAyZyZmZSgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410391646647:android:31693b2dcdcefeb22a1832",
+        "android_client_info": {
+          "package_name": "com.ario.haqe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX8GO6F7jkx3v4k7b3SDi3hAyZyZmZSgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410391646647:android:f0408def64a0cda22a1832",
+        "android_client_info": {
+          "package_name": "com.ario.hojrat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX8GO6F7jkx3v4k7b3SDi3hAyZyZmZSgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410391646647:android:9a60af140a348d9f2a1832",
+        "android_client_info": {
+          "package_name": "com.ario.jasieh"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX8GO6F7jkx3v4k7b3SDi3hAyZyZmZSgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410391646647:android:cc3502228a8b95442a1832",
+        "android_client_info": {
+          "package_name": "com.ario.jen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX8GO6F7jkx3v4k7b3SDi3hAyZyZmZSgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410391646647:android:8197de24b01992ba2a1832",
+        "android_client_info": {
+          "package_name": "com.ario.mdser"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX8GO6F7jkx3v4k7b3SDi3hAyZyZmZSgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410391646647:android:be3993b4856a9df72a1832",
+        "android_client_info": {
+          "package_name": "com.ario.mhmd"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX8GO6F7jkx3v4k7b3SDi3hAyZyZmZSgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410391646647:android:ed84930c3ee088822a1832",
+        "android_client_info": {
+          "package_name": "com.ario.mnfghn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX8GO6F7jkx3v4k7b3SDi3hAyZyZmZSgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410391646647:android:b1de98564e953b872a1832",
+        "android_client_info": {
+          "package_name": "com.ario.mojadl"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX8GO6F7jkx3v4k7b3SDi3hAyZyZmZSgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410391646647:android:435e1704be9d84e92a1832",
+        "android_client_info": {
+          "package_name": "com.ario.momtahn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX8GO6F7jkx3v4k7b3SDi3hAyZyZmZSgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410391646647:android:55674417c21abeec2a1832",
+        "android_client_info": {
+          "package_name": "com.ario.mraj"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX8GO6F7jkx3v4k7b3SDi3hAyZyZmZSgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410391646647:android:586953782d4e3b522a1832",
+        "android_client_info": {
+          "package_name": "com.ario.mrslt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX8GO6F7jkx3v4k7b3SDi3hAyZyZmZSgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410391646647:android:4b71aaa8a64c7f742a1832",
+        "android_client_info": {
+          "package_name": "com.ario.naba"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX8GO6F7jkx3v4k7b3SDi3hAyZyZmZSgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410391646647:android:02935bee587fe2592a1832",
+        "android_client_info": {
+          "package_name": "com.ario.nazat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX8GO6F7jkx3v4k7b3SDi3hAyZyZmZSgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410391646647:android:28a878198362053e2a1832",
+        "android_client_info": {
+          "package_name": "com.ario.noh"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX8GO6F7jkx3v4k7b3SDi3hAyZyZmZSgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410391646647:android:584a56681f2012692a1832",
+        "android_client_info": {
+          "package_name": "com.ario.nsan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX8GO6F7jkx3v4k7b3SDi3hAyZyZmZSgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410391646647:android:651bb7aac17a68ff2a1832",
+        "android_client_info": {
+          "package_name": "com.ario.qafr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX8GO6F7jkx3v4k7b3SDi3hAyZyZmZSgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410391646647:android:4b037471ffc9ce002a1832",
+        "android_client_info": {
+          "package_name": "com.ario.qlm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX8GO6F7jkx3v4k7b3SDi3hAyZyZmZSgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410391646647:android:d1f7547e3f8f4c8e2a1832",
+        "android_client_info": {
+          "package_name": "com.ario.saf"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX8GO6F7jkx3v4k7b3SDi3hAyZyZmZSgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410391646647:android:93570a2a0dfd7faf2a1832",
+        "android_client_info": {
+          "package_name": "com.ario.shora"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX8GO6F7jkx3v4k7b3SDi3hAyZyZmZSgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410391646647:android:ac6c6b21afc7ecfa2a1832",
+        "android_client_info": {
+          "package_name": "com.ario.tahrim"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX8GO6F7jkx3v4k7b3SDi3hAyZyZmZSgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410391646647:android:d32ea6960b0d16c92a1832",
+        "android_client_info": {
+          "package_name": "com.ario.tghbn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX8GO6F7jkx3v4k7b3SDi3hAyZyZmZSgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410391646647:android:76d61c9eea6be03d2a1832",
+        "android_client_info": {
+          "package_name": "com.ario.tor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX8GO6F7jkx3v4k7b3SDi3hAyZyZmZSgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410391646647:android:4bece824ceafac502a1832",
+        "android_client_info": {
+          "package_name": "com.ario.zkhrf"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX8GO6F7jkx3v4k7b3SDi3hAyZyZmZSgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

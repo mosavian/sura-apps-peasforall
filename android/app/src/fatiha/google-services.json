@@ -1,0 +1,238 @@
+{
+  "project_info": {
+    "project_number": "940062647434",
+    "project_id": "quran-kodakan",
+    "storage_bucket": "quran-kodakan.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940062647434:android:fc966f2fc789d08445b973",
+        "android_client_info": {
+          "package_name": "com.ario.falaq"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALyW_yBbgVb0Lhv82SLknD7OQz2OM0F2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940062647434:android:bbdf138ce4eb752645b973",
+        "android_client_info": {
+          "package_name": "com.ario.fatiha"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALyW_yBbgVb0Lhv82SLknD7OQz2OM0F2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940062647434:android:6ab1db324a092c5645b973",
+        "android_client_info": {
+          "package_name": "com.ario.ikhlas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALyW_yBbgVb0Lhv82SLknD7OQz2OM0F2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940062647434:android:24b3fc5831e6eddf45b973",
+        "android_client_info": {
+          "package_name": "com.ario.masad"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALyW_yBbgVb0Lhv82SLknD7OQz2OM0F2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940062647434:android:3909603f4c94324b45b973",
+        "android_client_info": {
+          "package_name": "com.ario.mobinmelayo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALyW_yBbgVb0Lhv82SLknD7OQz2OM0F2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940062647434:android:b49b6c147733fc1245b973",
+        "android_client_info": {
+          "package_name": "com.ario.nas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALyW_yBbgVb0Lhv82SLknD7OQz2OM0F2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940062647434:android:7a2d48dbf910dc6445b973",
+        "android_client_info": {
+          "package_name": "com.melayo.baqarehh"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALyW_yBbgVb0Lhv82SLknD7OQz2OM0F2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940062647434:android:97969405e224929a45b973",
+        "android_client_info": {
+          "package_name": "com.melayo.layl"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALyW_yBbgVb0Lhv82SLknD7OQz2OM0F2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940062647434:android:d5659717d067de9f45b973",
+        "android_client_info": {
+          "package_name": "com.melayo.loghman"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALyW_yBbgVb0Lhv82SLknD7OQz2OM0F2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940062647434:android:ecb31864e9cc477d45b973",
+        "android_client_info": {
+          "package_name": "com.melayo.zoha"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALyW_yBbgVb0Lhv82SLknD7OQz2OM0F2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940062647434:android:6d73c5e21f471b3b45b973",
+        "android_client_info": {
+          "package_name": "org.meraaj.quranforkids"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALyW_yBbgVb0Lhv82SLknD7OQz2OM0F2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940062647434:android:ecd1d8a18108ab6545b973",
+        "android_client_info": {
+          "package_name": "org.meraaj.qurankids"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALyW_yBbgVb0Lhv82SLknD7OQz2OM0F2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
