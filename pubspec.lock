@@ -497,11 +497,11 @@ packages:
     dependency: "direct main"
     description:
       path: "."
-      ref: "v0.4.3"
-      resolved-ref: "23893da4e4fcf7e00d1de2a3f0bf4551ea3fe3fa"
+      ref: "v0.4.4"
+      resolved-ref: ccc015a7f061437f450d1175ef34440e4867bea6
       url: "https://github.com/ramezaniivar/ivar_mobile_ads.git"
     source: git
-    version: "0.4.3"
+    version: "0.4.4"
   js:
     dependency: transitive
     description:
