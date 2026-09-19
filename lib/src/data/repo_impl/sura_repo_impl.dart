@@ -64,6 +64,13 @@ final class SuraRepoImpl implements SuraRepo {
         }
       }
 
+      //حذف بسم الله از اولین آیه اگر وجود داشت
+      if (verses[0].arabic.contains('بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ')) {
+        verses[0].arabic = verses[0].arabic
+            .replaceFirst('بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ', '')
+            .trim();
+      }
+
       return Ok(verses);
     } catch (err) {
       return MyException.handleError(err);

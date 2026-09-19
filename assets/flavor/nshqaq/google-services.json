@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "807673705084",
-    "project_id": "quran-3-b32d5",
-    "storage_bucket": "quran-3-b32d5.firebasestorage.app"
+    "project_number": "708383490402",
+    "project_id": "quranmeraj4",
+    "storage_bucket": "quranmeraj4.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:807673705084:android:230aed96fe27710e730ff9",
+        "mobilesdk_app_id": "1:708383490402:android:38a9aa1741f666cf8f2c3b",
         "android_client_info": {
-          "package_name": "com.ario.adiyat"
+          "package_name": "org.meraaj.abas"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCLHnMzRsgO6CRl3TBe3ll_-yNESsE2mgI"
+          "current_key": "AIzaSyDAO_i-EQEsL1EmDKEZNitb7GTnmmJzKmk"
         }
       ],
       "services": {
@@ -26,15 +26,15 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:807673705084:android:2073b4cc33b430a7730ff9",
+        "mobilesdk_app_id": "1:708383490402:android:6a2afc3b12ee955a8f2c3b",
         "android_client_info": {
-          "package_name": "com.ario.ala"
+          "package_name": "org.meraaj.balad"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCLHnMzRsgO6CRl3TBe3ll_-yNESsE2mgI"
+          "current_key": "AIzaSyDAO_i-EQEsL1EmDKEZNitb7GTnmmJzKmk"
         }
       ],
       "services": {
@@ -45,15 +45,15 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:807673705084:android:1d76502443c3ccca730ff9",
+        "mobilesdk_app_id": "1:708383490402:android:a08024c1541dce738f2c3b",
         "android_client_info": {
-          "package_name": "com.ario.alaq"
+          "package_name": "org.meraaj.broj"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCLHnMzRsgO6CRl3TBe3ll_-yNESsE2mgI"
+          "current_key": "AIzaSyDAO_i-EQEsL1EmDKEZNitb7GTnmmJzKmk"
         }
       ],
       "services": {
@@ -64,15 +64,15 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:807673705084:android:d388b9e5a07a1fad730ff9",
+        "mobilesdk_app_id": "1:708383490402:android:48675419b1415b4e8f2c3b",
         "android_client_info": {
-          "package_name": "com.ario.asr"
+          "package_name": "org.meraaj.fajr"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCLHnMzRsgO6CRl3TBe3ll_-yNESsE2mgI"
+          "current_key": "AIzaSyDAO_i-EQEsL1EmDKEZNitb7GTnmmJzKmk"
         }
       ],
       "services": {
@@ -83,15 +83,15 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:807673705084:android:6dcc3a2e6b1c26b3730ff9",
+        "mobilesdk_app_id": "1:708383490402:android:caa1773fb533cb2c8f2c3b",
         "android_client_info": {
-          "package_name": "com.ario.balad"
+          "package_name": "org.meraaj.ghiyamt"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCLHnMzRsgO6CRl3TBe3ll_-yNESsE2mgI"
+          "current_key": "AIzaSyDAO_i-EQEsL1EmDKEZNitb7GTnmmJzKmk"
         }
       ],
       "services": {
@@ -102,15 +102,15 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:807673705084:android:23541f897e73be6f730ff9",
+        "mobilesdk_app_id": "1:708383490402:android:0e7369a9c224b47b8f2c3b",
         "android_client_info": {
-          "package_name": "com.ario.bayyina"
+          "package_name": "org.meraaj.haqe"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCLHnMzRsgO6CRl3TBe3ll_-yNESsE2mgI"
+          "current_key": "AIzaSyDAO_i-EQEsL1EmDKEZNitb7GTnmmJzKmk"
         }
       ],
       "services": {
@@ -121,15 +121,15 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:807673705084:android:7a0b1ced7be48be2730ff9",
+        "mobilesdk_app_id": "1:708383490402:android:1ebc0822bfc2439e8f2c3b",
         "android_client_info": {
-          "package_name": "com.ario.broj"
+          "package_name": "org.meraaj.jen"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCLHnMzRsgO6CRl3TBe3ll_-yNESsE2mgI"
+          "current_key": "AIzaSyDAO_i-EQEsL1EmDKEZNitb7GTnmmJzKmk"
         }
       ],
       "services": {
@@ -140,15 +140,15 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:807673705084:android:ba1a1f78f7f24b70730ff9",
+        "mobilesdk_app_id": "1:708383490402:android:b1f5696f92e019338f2c3b",
         "android_client_info": {
-          "package_name": "com.ario.fajr"
+          "package_name": "org.meraaj.jome"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCLHnMzRsgO6CRl3TBe3ll_-yNESsE2mgI"
+          "current_key": "AIzaSyDAO_i-EQEsL1EmDKEZNitb7GTnmmJzKmk"
         }
       ],
       "services": {
@@ -159,15 +159,15 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:807673705084:android:d305df527d11becf730ff9",
+        "mobilesdk_app_id": "1:708383490402:android:fda9eff9202a6e378f2c3b",
         "android_client_info": {
-          "package_name": "com.ario.fil"
+          "package_name": "org.meraaj.mdser"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCLHnMzRsgO6CRl3TBe3ll_-yNESsE2mgI"
+          "current_key": "AIzaSyDAO_i-EQEsL1EmDKEZNitb7GTnmmJzKmk"
         }
       ],
       "services": {
@@ -178,15 +178,15 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:807673705084:android:47199433b2a36c18730ff9",
+        "mobilesdk_app_id": "1:708383490402:android:a43aa17abfd8abaf8f2c3b",
         "android_client_info": {
-          "package_name": "com.ario.humazah"
+          "package_name": "org.meraaj.mnfghn"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCLHnMzRsgO6CRl3TBe3ll_-yNESsE2mgI"
+          "current_key": "AIzaSyDAO_i-EQEsL1EmDKEZNitb7GTnmmJzKmk"
         }
       ],
       "services": {
@@ -197,15 +197,15 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:807673705084:android:6f57e903e674bebc730ff9",
+        "mobilesdk_app_id": "1:708383490402:android:1fdb541d5802e55a8f2c3b",
         "android_client_info": {
-          "package_name": "com.ario.kafirun"
+          "package_name": "org.meraaj.molk"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCLHnMzRsgO6CRl3TBe3ll_-yNESsE2mgI"
+          "current_key": "AIzaSyDAO_i-EQEsL1EmDKEZNitb7GTnmmJzKmk"
         }
       ],
       "services": {
@@ -216,15 +216,15 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:807673705084:android:df8451415dd19026730ff9",
+        "mobilesdk_app_id": "1:708383490402:android:b3e848762a94c7468f2c3b",
         "android_client_info": {
-          "package_name": "com.ario.kawthar"
+          "package_name": "org.meraaj.mozamel"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCLHnMzRsgO6CRl3TBe3ll_-yNESsE2mgI"
+          "current_key": "AIzaSyDAO_i-EQEsL1EmDKEZNitb7GTnmmJzKmk"
         }
       ],
       "services": {
@@ -235,15 +235,15 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:807673705084:android:e639bf9860638148730ff9",
+        "mobilesdk_app_id": "1:708383490402:android:e5e9488b250022068f2c3b",
         "android_client_info": {
-          "package_name": "com.ario.layl"
+          "package_name": "org.meraaj.mraj"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCLHnMzRsgO6CRl3TBe3ll_-yNESsE2mgI"
+          "current_key": "AIzaSyDAO_i-EQEsL1EmDKEZNitb7GTnmmJzKmk"
         }
       ],
       "services": {
@@ -254,15 +254,15 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:807673705084:android:9d50ee08bd40646e730ff9",
+        "mobilesdk_app_id": "1:708383490402:android:3f6e75d8f697b3588f2c3b",
         "android_client_info": {
-          "package_name": "com.ario.maun"
+          "package_name": "org.meraaj.mrslt"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCLHnMzRsgO6CRl3TBe3ll_-yNESsE2mgI"
+          "current_key": "AIzaSyDAO_i-EQEsL1EmDKEZNitb7GTnmmJzKmk"
         }
       ],
       "services": {
@@ -273,15 +273,15 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:807673705084:android:3f1dfc54cde3a04f730ff9",
+        "mobilesdk_app_id": "1:708383490402:android:339904045cbd9cda8f2c3b",
         "android_client_info": {
-          "package_name": "com.ario.mtffin"
+          "package_name": "org.meraaj.mtffin"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCLHnMzRsgO6CRl3TBe3ll_-yNESsE2mgI"
+          "current_key": "AIzaSyDAO_i-EQEsL1EmDKEZNitb7GTnmmJzKmk"
         }
       ],
       "services": {
@@ -292,15 +292,15 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:807673705084:android:b6e9de608521a701730ff9",
+        "mobilesdk_app_id": "1:708383490402:android:6307ee2cec7de2018f2c3b",
         "android_client_info": {
-          "package_name": "com.ario.nasr"
+          "package_name": "org.meraaj.naba"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCLHnMzRsgO6CRl3TBe3ll_-yNESsE2mgI"
+          "current_key": "AIzaSyDAO_i-EQEsL1EmDKEZNitb7GTnmmJzKmk"
         }
       ],
       "services": {
@@ -311,15 +311,15 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:807673705084:android:63406e479eea8b3e730ff9",
+        "mobilesdk_app_id": "1:708383490402:android:ce382c0bb252cd1b8f2c3b",
         "android_client_info": {
-          "package_name": "com.ario.nftar"
+          "package_name": "org.meraaj.nazat"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCLHnMzRsgO6CRl3TBe3ll_-yNESsE2mgI"
+          "current_key": "AIzaSyDAO_i-EQEsL1EmDKEZNitb7GTnmmJzKmk"
         }
       ],
       "services": {
@@ -330,15 +330,15 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:807673705084:android:a9b55d8a7e32b243730ff9",
+        "mobilesdk_app_id": "1:708383490402:android:ccef9059a4d2ad6d8f2c3b",
         "android_client_info": {
-          "package_name": "com.ario.nshqaq"
+          "package_name": "org.meraaj.nftar"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCLHnMzRsgO6CRl3TBe3ll_-yNESsE2mgI"
+          "current_key": "AIzaSyDAO_i-EQEsL1EmDKEZNitb7GTnmmJzKmk"
         }
       ],
       "services": {
@@ -349,15 +349,15 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:807673705084:android:08189af20f6f71b0730ff9",
+        "mobilesdk_app_id": "1:708383490402:android:0a0cf555bc9cc3668f2c3b",
         "android_client_info": {
-          "package_name": "com.ario.qadr"
+          "package_name": "org.meraaj.noh"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCLHnMzRsgO6CRl3TBe3ll_-yNESsE2mgI"
+          "current_key": "AIzaSyDAO_i-EQEsL1EmDKEZNitb7GTnmmJzKmk"
         }
       ],
       "services": {
@@ -368,15 +368,15 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:807673705084:android:62438c744f1f3f60730ff9",
+        "mobilesdk_app_id": "1:708383490402:android:bbe3d55df8e3fb098f2c3b",
         "android_client_info": {
-          "package_name": "com.ario.qariah"
+          "package_name": "org.meraaj.nsan"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCLHnMzRsgO6CRl3TBe3ll_-yNESsE2mgI"
+          "current_key": "AIzaSyDAO_i-EQEsL1EmDKEZNitb7GTnmmJzKmk"
         }
       ],
       "services": {
@@ -387,15 +387,15 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:807673705084:android:605cafa69f6105b5730ff9",
+        "mobilesdk_app_id": "1:708383490402:android:c5d558e693d76fc08f2c3b",
         "android_client_info": {
-          "package_name": "com.ario.qashie"
+          "package_name": "org.meraaj.nshqaq"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCLHnMzRsgO6CRl3TBe3ll_-yNESsE2mgI"
+          "current_key": "AIzaSyDAO_i-EQEsL1EmDKEZNitb7GTnmmJzKmk"
         }
       ],
       "services": {
@@ -406,15 +406,15 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:807673705084:android:6874e01bc85bb5d5730ff9",
+        "mobilesdk_app_id": "1:708383490402:android:dd7bfdb78e76b4318f2c3b",
         "android_client_info": {
-          "package_name": "com.ario.quraysh"
+          "package_name": "org.meraaj.qashie"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCLHnMzRsgO6CRl3TBe3ll_-yNESsE2mgI"
+          "current_key": "AIzaSyDAO_i-EQEsL1EmDKEZNitb7GTnmmJzKmk"
         }
       ],
       "services": {
@@ -425,15 +425,15 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:807673705084:android:550db095b5071352730ff9",
+        "mobilesdk_app_id": "1:708383490402:android:54e9f790be113a618f2c3b",
         "android_client_info": {
-          "package_name": "com.ario.shams"
+          "package_name": "org.meraaj.qlm"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCLHnMzRsgO6CRl3TBe3ll_-yNESsE2mgI"
+          "current_key": "AIzaSyDAO_i-EQEsL1EmDKEZNitb7GTnmmJzKmk"
         }
       ],
       "services": {
@@ -444,15 +444,15 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:807673705084:android:26e3dc57c9d59b0d730ff9",
+        "mobilesdk_app_id": "1:708383490402:android:fad818968102209a8f2c3b",
         "android_client_info": {
-          "package_name": "com.ario.sharh"
+          "package_name": "org.meraaj.saf"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCLHnMzRsgO6CRl3TBe3ll_-yNESsE2mgI"
+          "current_key": "AIzaSyDAO_i-EQEsL1EmDKEZNitb7GTnmmJzKmk"
         }
       ],
       "services": {
@@ -463,15 +463,15 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:807673705084:android:5a89690efea8e910730ff9",
+        "mobilesdk_app_id": "1:708383490402:android:7703230d22f508828f2c3b",
         "android_client_info": {
-          "package_name": "com.ario.takathur"
+          "package_name": "org.meraaj.shams"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCLHnMzRsgO6CRl3TBe3ll_-yNESsE2mgI"
+          "current_key": "AIzaSyDAO_i-EQEsL1EmDKEZNitb7GTnmmJzKmk"
         }
       ],
       "services": {
@@ -482,15 +482,15 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:807673705084:android:2d9b20c1fd778711730ff9",
+        "mobilesdk_app_id": "1:708383490402:android:5fc218d8272e9b708f2c3b",
         "android_client_info": {
-          "package_name": "com.ario.takwir"
+          "package_name": "org.meraaj.tahrim"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCLHnMzRsgO6CRl3TBe3ll_-yNESsE2mgI"
+          "current_key": "AIzaSyDAO_i-EQEsL1EmDKEZNitb7GTnmmJzKmk"
         }
       ],
       "services": {
@@ -501,15 +501,15 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:807673705084:android:192caaa4d624f2d1730ff9",
+        "mobilesdk_app_id": "1:708383490402:android:b15534daec7803d98f2c3b",
         "android_client_info": {
-          "package_name": "com.ario.taregh"
+          "package_name": "org.meraaj.takwir"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCLHnMzRsgO6CRl3TBe3ll_-yNESsE2mgI"
+          "current_key": "AIzaSyDAO_i-EQEsL1EmDKEZNitb7GTnmmJzKmk"
         }
       ],
       "services": {
@@ -520,15 +520,15 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:807673705084:android:d8416d61590ede4b730ff9",
+        "mobilesdk_app_id": "1:708383490402:android:6d59745e28d23cd78f2c3b",
         "android_client_info": {
-          "package_name": "com.ario.tin"
+          "package_name": "org.meraaj.talagh"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCLHnMzRsgO6CRl3TBe3ll_-yNESsE2mgI"
+          "current_key": "AIzaSyDAO_i-EQEsL1EmDKEZNitb7GTnmmJzKmk"
         }
       ],
       "services": {
@@ -539,15 +539,15 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:807673705084:android:740aef6707a3c85e730ff9",
+        "mobilesdk_app_id": "1:708383490402:android:7dbe1f9a1ab34d388f2c3b",
         "android_client_info": {
-          "package_name": "com.ario.zalzalah"
+          "package_name": "org.meraaj.taregh"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCLHnMzRsgO6CRl3TBe3ll_-yNESsE2mgI"
+          "current_key": "AIzaSyDAO_i-EQEsL1EmDKEZNitb7GTnmmJzKmk"
         }
       ],
       "services": {
@@ -558,15 +558,15 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:807673705084:android:4518e577c4d3d3fb730ff9",
+        "mobilesdk_app_id": "1:708383490402:android:4e543fb44c2032228f2c3b",
         "android_client_info": {
-          "package_name": "com.ario.zoha"
+          "package_name": "org.meraaj.tghbn"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCLHnMzRsgO6CRl3TBe3ll_-yNESsE2mgI"
+          "current_key": "AIzaSyDAO_i-EQEsL1EmDKEZNitb7GTnmmJzKmk"
         }
       ],
       "services": {

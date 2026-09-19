@@ -5,8 +5,8 @@ final class AppTheme {
   const AppTheme();
 
   static ThemeData light({String? font}) {
-    final primary = Colors.teal;
-    final secondary = Colors.amber.shade600;
+    final primary = Colors.deepPurple;
+    final secondary = Colors.indigo;
     const textColor = Color.fromARGB(255, 66, 66, 78);
     const backgroundColor1 = Colors.white;
     const backgroundColor2 = Color(0xfffafafa);
@@ -25,27 +25,12 @@ final class AppTheme {
 
   static ThemeData dark({String? font}) {
     const primary = Color.fromARGB(255, 68, 131, 255);
-    // const textColor = Color(0xfffafafa);
-    // const backgroundColor1 = Color(0xff171A26);
-    // const backgroundColor2 = Color(0xff1C202E);
-    // const backgroundColor3 = Color(0xff202538);
-    // const primary = Color.fromARGB(255, 68, 138, 199);
-    // const primary = Color.fromARGB(255, 74, 176, 255);
-    // const primary = Color(0xff5EB5F7);
-    // const primary = Color(0xFF00ADEF);
 
     const secondary = Color.fromARGB(255, 248, 137, 27); //Color(0xFFF58220);
     const textColor = Color(0xffF5F5F5);
     const backgroundColor1 = Color(0xff0E1621);
     const backgroundColor2 = Color(0xff17212B);
     const backgroundColor3 = Color(0xff1B2734);
-
-    // final primary = Color.fromARGB(255, 68, 131, 255);
-    // final secondary = Color.fromARGB(255, 248, 137, 27);
-    // const textColor = Color(0xfffafafa);
-    // const backgroundColor1 = Color(0xff1D2733);
-    // const backgroundColor2 = Color(0xff252D3A);
-    // const backgroundColor3 = Color.fromARGB(255, 42, 51, 65);
 
     return _theme(
       primary: primary,
@@ -82,7 +67,7 @@ final class AppTheme {
         linearTrackColor: inputbackgroundColor,
         borderRadius: BorderRadius.circular(4),
       ),
-      hintColor: textColor.withOpacity(0.6),
+      hintColor: textColor.withValues(alpha: 0.6),
       hoverColor: inputbackgroundColor,
       shadowColor: textColor,
       canvasColor: backgroundColor,
@@ -150,8 +135,8 @@ final class AppTheme {
           fontSize: 14,
           fontFamily: font,
         ),
-        iconColor: textColor.withOpacity(0.7),
-        selectedTileColor: primary.withOpacity(0.1),
+        iconColor: textColor.withValues(alpha: 0.7),
+        selectedTileColor: primary.withValues(alpha: 0.1),
       ),
       appBarTheme: AppBarTheme(
         backgroundColor: inputbackgroundColor,
@@ -204,7 +189,7 @@ final class AppTheme {
           fontFamily: font,
         ),
         bodySmall: TextStyle(
-          color: textColor.withOpacity(0.6),
+          color: textColor.withValues(alpha: 0.6),
           fontWeight: FontWeight.w300,
           fontSize: 11,
           fontFamily: font,

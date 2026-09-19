@@ -28,13 +28,27 @@ class _LoadedVerses extends StatelessWidget {
       },
       child: ScrollablePositionedList.builder(
         itemScrollController: context.read<SuraCubit>().scrollController,
-        itemCount: isComplated ? verses.length : verses.length + 1,
+        itemCount: isComplated ? verses.length + 1 : verses.length + 2,
         itemBuilder: (context, index) {
-          if (index >= verses.length) {
+          if ((index - 1) >= verses.length) {
             return SizedBox(height: 60, child: CustomLoadingState());
           }
 
-          return _VerseItem(verses[index], index);
+          if (index == 0) {
+            final item0 = VerseEntity(
+              id: -1,
+              arabic: 'بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ',
+              chapter: verses[0].chapter,
+              translate: verses[0].translate == null
+                  ? null
+                  : 'به نام خداوند بخشنده مهربان',
+              page: verses[0].page,
+            );
+
+            return _VerseItem(item0, -1);
+          }
+
+          return _VerseItem(verses[index - 1], index - 1);
         },
       ),
     );
@@ -68,12 +82,11 @@ class _VerseItem extends StatelessWidget {
         final isPlaying = status == index + 1;
 
         return InkWell(
-          onTap:
-              isPlaying
-                  ? null
-                  : () {
-                    context.read<SuraCubit>().playAudio(id: index + 1);
-                  },
+          onTap: isPlaying || verse.id == -1
+              ? null
+              : () {
+                  context.read<SuraCubit>().playAudio(id: index + 1);
+                },
           child: AnimatedContainer(
             duration: Constants.animationDuration,
             padding: EdgeInsets.symmetric(
@@ -85,9 +98,8 @@ class _VerseItem extends StatelessWidget {
               spacing: Constants.defaultPadding,
               children: [
                 BlocBuilder<SettingsCubit, SettingsState>(
-                  buildWhen:
-                      (previous, current) =>
-                          previous.suraFontSize != current.suraFontSize,
+                  buildWhen: (previous, current) =>
+                      previous.suraFontSize != current.suraFontSize,
                   builder: (context, state) {
                     final fontSize = state.suraFontSize;
 
@@ -107,10 +119,11 @@ class _VerseItem extends StatelessWidget {
                         TextSpan(
                           children: [
                             TextSpan(text: verse.arabic),
-                            TextSpan(
-                              text:
-                                  ' {${intl.NumberFormat.decimalPattern('fa').format(index + 1)}}',
-                            ),
+                            if (verse.verse != null)
+                              TextSpan(
+                                text:
+                                    ' {${intl.NumberFormat.decimalPattern('fa').format(verse.verse)}}',
+                              ),
                           ],
                         ),
                       ),
@@ -119,10 +132,8 @@ class _VerseItem extends StatelessWidget {
                 ),
                 if (verse.translate != null)
                   BlocBuilder<SettingsCubit, SettingsState>(
-                    buildWhen:
-                        (previous, current) =>
-                            previous.translateFontSize !=
-                            current.translateFontSize,
+                    buildWhen: (previous, current) =>
+                        previous.translateFontSize != current.translateFontSize,
                     builder: (context, state) {
                       final fontSize = state.translateFontSize;
 

@@ -26,7 +26,7 @@ class _Drawer extends StatelessWidget {
                   width: 80,
                   height: 80,
                 ),
-                Text(F.title, style: theme.textTheme.bodyMedium),
+                // Text(F.title, style: theme.textTheme.bodyMedium),
                 Text(
                   'v: ${locator<PackageInfoService>().version}',
                   style: theme.textTheme.bodySmall,

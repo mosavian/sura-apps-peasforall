@@ -18,7 +18,7 @@ class StarButton extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    final color = Color(0xff01530C);
+    final color = Colors.white;
 
     return InkWell(
       onTap: isLoading ? null : onTap,

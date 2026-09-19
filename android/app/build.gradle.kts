@@ -17,7 +17,7 @@ if (keystorePropertiesFile.exists()) {
 android {
     namespace = "com.example.sura_apps_1_1"
     compileSdk = 36 //flutter.compileSdkVersion
-    ndkVersion = "29.0.14033849" //flutter.ndkVersion
+    ndkVersion = "30.0.16248370" //flutter.ndkVersion
 
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_11

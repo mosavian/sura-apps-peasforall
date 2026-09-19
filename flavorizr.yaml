@@ -5,7 +5,7 @@ flavors:
     app:
       name: سورة الفاتحة
     android:
-      applicationId: com.ario.fatiha
+      applicationId: org.meraaj.fatiha
       firebase:
         config: assets/flavor/fatiha/google-services.json
       icon: assets/flavor/fatiha/icon.png
@@ -14,7 +14,7 @@ flavors:
     app:
       name: سورة البقرة
     android:
-      applicationId: com.ario.baqareh
+      applicationId: org.meraaj.baqareh
       firebase:
         config: assets/flavor/baqareh/google-services.json
       icon: assets/flavor/baqareh/icon.png
@@ -23,7 +23,7 @@ flavors:
     app:
       name: سورة آل عمران
     android:
-      applicationId: com.ario.emran
+      applicationId: org.meraaj.emran
       firebase:
         config: assets/flavor/emran/google-services.json
       icon: assets/flavor/emran/icon.png
@@ -32,7 +32,7 @@ flavors:
     app:
       name: سورة النساء
     android:
-      applicationId: com.ario.nesa
+      applicationId: org.meraaj.nesa
       firebase:
         config: assets/flavor/nesa/google-services.json
       icon: assets/flavor/nesa/icon.png
@@ -41,7 +41,7 @@ flavors:
     app:
       name: سورة المائدة
     android:
-      applicationId: com.ario.maede
+      applicationId: org.meraaj.maede
       firebase:
         config: assets/flavor/maede/google-services.json
       icon: assets/flavor/maede/icon.png
@@ -50,7 +50,7 @@ flavors:
     app:
       name: سورة الأنعام
     android:
-      applicationId: com.ario.anam
+      applicationId: org.meraaj.anam
       firebase:
         config: assets/flavor/anam/google-services.json
       icon: assets/flavor/anam/icon.png
@@ -59,7 +59,7 @@ flavors:
     app:
       name: سورة الأعراف
     android:
-      applicationId: com.ario.eraf
+      applicationId: org.meraaj.eraf
       firebase:
         config: assets/flavor/eraf/google-services.json
       icon: assets/flavor/eraf/icon.png
@@ -68,7 +68,7 @@ flavors:
     app:
       name: سورة الأنفال
     android:
-      applicationId: com.ario.enfal
+      applicationId: org.meraaj.enfal
       firebase:
         config: assets/flavor/anfal/google-services.json
       icon: assets/flavor/anfal/icon.png
@@ -77,7 +77,7 @@ flavors:
     app:
       name: سورة التوبة
     android:
-      applicationId: com.ario.tobeh
+      applicationId: org.meraaj.tobeh
       firebase:
         config: assets/flavor/tobeh/google-services.json
       icon: assets/flavor/tobeh/icon.png
@@ -86,7 +86,7 @@ flavors:
     app:
       name: سورة يونس
     android:
-      applicationId: com.ario.yones
+      applicationId: org.meraaj.yones
       firebase:
         config: assets/flavor/yones/google-services.json
       icon: assets/flavor/yones/icon.png
@@ -95,7 +95,7 @@ flavors:
     app:
       name: سورة هود
     android:
-      applicationId: com.ario.hod
+      applicationId: org.meraaj.hod
       firebase:
         config: assets/flavor/hod/google-services.json
       icon: assets/flavor/hod/icon.png
@@ -104,7 +104,7 @@ flavors:
     app:
       name: سورة يوسف
     android:
-      applicationId: com.ario.usef
+      applicationId: org.meraaj.usef
       firebase:
         config: assets/flavor/usef/google-services.json
       icon: assets/flavor/usef/icon.png
@@ -113,7 +113,7 @@ flavors:
     app:
       name: سورة الرعد
     android:
-      applicationId: com.ario.raad
+      applicationId: org.meraaj.raad
       firebase:
         config: assets/flavor/raad/google-services.json
       icon: assets/flavor/raad/icon.png
@@ -122,7 +122,7 @@ flavors:
     app:
       name: سورة إبراهيم
     android:
-      applicationId: com.ario.ebrahim
+      applicationId: org.meraaj.ebrahim
       firebase:
         config: assets/flavor/ebrahim/google-services.json
       icon: assets/flavor/ebrahim/icon.png
@@ -131,7 +131,7 @@ flavors:
     app:
       name: سورة الحجر
     android:
-      applicationId: com.ario.hajar
+      applicationId: org.meraaj.hajar
       firebase:
         config: assets/flavor/hajar/google-services.json
       icon: assets/flavor/hajar/icon.png
@@ -140,7 +140,7 @@ flavors:
     app:
       name: سورة النحل
     android:
-      applicationId: com.ario.nahl
+      applicationId: org.meraaj.nahl
       firebase:
         config: assets/flavor/nahl/google-services.json
       icon: assets/flavor/nahl/icon.png
@@ -149,7 +149,7 @@ flavors:
     app:
       name: سورة الإسراء
     android:
-      applicationId: com.ario.esra
+      applicationId: org.meraaj.esra
       firebase:
         config: assets/flavor/esra/google-services.json
       icon: assets/flavor/esra/icon.png
@@ -158,7 +158,7 @@ flavors:
     app:
       name: سورة الكهف
     android:
-      applicationId: com.ario.kahf
+      applicationId: org.meraaj.kahf
       firebase:
         config: assets/flavor/kahf/google-services.json
       icon: assets/flavor/kahf/icon.png
@@ -167,7 +167,7 @@ flavors:
     app:
       name: سورة مريم
     android:
-      applicationId: com.ario.maryam
+      applicationId: org.meraaj.maryam
       firebase:
         config: assets/flavor/maryam/google-services.json
       icon: assets/flavor/maryam/icon.png
@@ -176,7 +176,7 @@ flavors:
     app:
       name: سورة طه
     android:
-      applicationId: com.ario.taha
+      applicationId: org.meraaj.taha
       firebase:
         config: assets/flavor/taha/google-services.json
       icon: assets/flavor/taha/icon.png
@@ -185,7 +185,7 @@ flavors:
     app:
       name: سورة الأنبياء
     android:
-      applicationId: com.ario.anbya
+      applicationId: org.meraaj.anbya
       firebase:
         config: assets/flavor/anbya/google-services.json
       icon: assets/flavor/anbya/icon.png
@@ -194,7 +194,7 @@ flavors:
     app:
       name: سورة الحج
     android:
-      applicationId: com.ario.haj
+      applicationId: org.meraaj.haj
       firebase:
         config: assets/flavor/haj/google-services.json
       icon: assets/flavor/haj/icon.png
@@ -203,7 +203,7 @@ flavors:
     app:
       name: سورة المؤمنون
     android:
-      applicationId: com.ario.momenon
+      applicationId: org.meraaj.momenon
       firebase:
         config: assets/flavor/momenon/google-services.json
       icon: assets/flavor/momenon/icon.png
@@ -212,7 +212,7 @@ flavors:
     app:
       name: سورة النور
     android:
-      applicationId: com.ario.nor
+      applicationId: org.meraaj.nor
       firebase:
         config: assets/flavor/nor/google-services.json
       icon: assets/flavor/nor/icon.png
@@ -221,7 +221,7 @@ flavors:
     app:
       name: سورة الفرقان
     android:
-      applicationId: com.ario.forghan
+      applicationId: org.meraaj.forghan
       firebase:
         config: assets/flavor/forghan/google-services.json
       icon: assets/flavor/forghan/icon.png
@@ -230,7 +230,7 @@ flavors:
     app:
       name: سورة الشعراء
     android:
-      applicationId: com.ario.shoara
+      applicationId: org.meraaj.shoara
       firebase:
         config: assets/flavor/shoara/google-services.json
       icon: assets/flavor/shoara/icon.png
@@ -239,7 +239,7 @@ flavors:
     app:
       name: سورة النمل
     android:
-      applicationId: com.ario.naml
+      applicationId: org.meraaj.naml
       firebase:
         config: assets/flavor/naml/google-services.json
       icon: assets/flavor/naml/icon.png
@@ -248,7 +248,7 @@ flavors:
     app:
       name: سورة القصص
     android:
-      applicationId: com.ario.ghesas
+      applicationId: org.meraaj.ghesas
       firebase:
         config: assets/flavor/ghesas/google-services.json
       icon: assets/flavor/ghesas/icon.png
@@ -257,7 +257,7 @@ flavors:
     app:
       name: سورة العنكبوت
     android:
-      applicationId: com.ario.ankaboot
+      applicationId: org.meraaj.ankaboot
       firebase:
         config: assets/flavor/ankaboot/google-services.json
       icon: assets/flavor/ankaboot/icon.png
@@ -266,7 +266,7 @@ flavors:
     app:
       name: سورة الروم
     android:
-      applicationId: com.ario.rom
+      applicationId: org.meraaj.rom
       firebase:
         config: assets/flavor/rom/google-services.json
       icon: assets/flavor/rom/icon.png
@@ -275,7 +275,7 @@ flavors:
     app:
       name: سورة لقمان
     android:
-      applicationId: com.ario.loghman
+      applicationId: org.meraaj.loghman
       firebase:
         config: assets/flavor/loghman/google-services.json
       icon: assets/flavor/loghman/icon.png
@@ -284,7 +284,7 @@ flavors:
     app:
       name: سورة السجدة
     android:
-      applicationId: com.ario.sajdeh
+      applicationId: org.meraaj.sajdeh
       firebase:
         config: assets/flavor/sajdeh/google-services.json
       icon: assets/flavor/sajdeh/icon.png
@@ -293,7 +293,7 @@ flavors:
     app:
       name: سورة الأحزاب
     android:
-      applicationId: com.ario.ahzab
+      applicationId: org.meraaj.ahzab
       firebase:
         config: assets/flavor/ahzab/google-services.json
       icon: assets/flavor/ahzab/icon.png
@@ -302,7 +302,7 @@ flavors:
     app:
       name: سورة سبأ
     android:
-      applicationId: com.ario.saba
+      applicationId: org.meraaj.saba
       firebase:
         config: assets/flavor/saba/google-services.json
       icon: assets/flavor/saba/icon.png
@@ -311,7 +311,7 @@ flavors:
     app:
       name: سورة فاطر
     android:
-      applicationId: com.ario.fater
+      applicationId: org.meraaj.fater
       firebase:
         config: assets/flavor/fater/google-services.json
       icon: assets/flavor/fater/icon.png
@@ -320,7 +320,7 @@ flavors:
     app:
       name: سورة يس
     android:
-      applicationId: com.ario.yasin
+      applicationId: org.meraaj.yasin
       firebase:
         config: assets/flavor/yasin/google-services.json
       icon: assets/flavor/yasin/icon.png
@@ -329,7 +329,7 @@ flavors:
     app:
       name: سورة الصافات
     android:
-      applicationId: com.ario.safat
+      applicationId: org.meraaj.safat
       firebase:
         config: assets/flavor/safat/google-services.json
       icon: assets/flavor/safat/icon.png
@@ -338,7 +338,7 @@ flavors:
     app:
       name: سورة ص
     android:
-      applicationId: com.ario.sad
+      applicationId: org.meraaj.sad
       firebase:
         config: assets/flavor/sad/google-services.json
       icon: assets/flavor/sad/icon.png
@@ -347,7 +347,7 @@ flavors:
     app:
       name: سورة الزمر
     android:
-      applicationId: com.ario.zmr
+      applicationId: org.meraaj.zmr
       firebase:
         config: assets/flavor/zmr/google-services.json
       icon: assets/flavor/zmr/icon.png
@@ -356,7 +356,7 @@ flavors:
     app:
       name: سورة ق
     android:
-      applicationId: com.ario.ghaf
+      applicationId: org.meraaj.ghaf
       firebase:
         config: assets/flavor/ghaf/google-services.json
       icon: assets/flavor/ghaf/icon.png
@@ -365,7 +365,7 @@ flavors:
     app:
       name: سورة فصلت
     android:
-      applicationId: com.ario.fslat
+      applicationId: org.meraaj.fslat
       firebase:
         config: assets/flavor/fslat/google-services.json
       icon: assets/flavor/fslat/icon.png
@@ -374,7 +374,7 @@ flavors:
     app:
       name: سورة الشورى
     android:
-      applicationId: com.ario.shora
+      applicationId: org.meraaj.shora
       firebase:
         config: assets/flavor/shora/google-services.json
       icon: assets/flavor/shora/icon.png
@@ -383,7 +383,7 @@ flavors:
     app:
       name: سورة الزخرف
     android:
-      applicationId: com.ario.zkhrf
+      applicationId: org.meraaj.zkhrf
       firebase:
         config: assets/flavor/zkhrf/google-services.json
       icon: assets/flavor/zkhrf/icon.png
@@ -392,7 +392,7 @@ flavors:
     app:
       name: سورة الدخان
     android:
-      applicationId: com.ario.dokhan
+      applicationId: org.meraaj.dokhan
       firebase:
         config: assets/flavor/dokhan/google-services.json
       icon: assets/flavor/dokhan/icon.png
@@ -401,7 +401,7 @@ flavors:
     app:
       name: سورة الجاثية
     android:
-      applicationId: com.ario.jasieh
+      applicationId: org.meraaj.jasieh
       firebase:
         config: assets/flavor/jasieh/google-services.json
       icon: assets/flavor/jasieh/icon.png
@@ -410,7 +410,7 @@ flavors:
     app:
       name: سورة الأحقاف
     android:
-      applicationId: com.ario.ahghaf
+      applicationId: org.meraaj.ahghaf
       firebase:
         config: assets/flavor/ahghaf/google-services.json
       icon: assets/flavor/ahghaf/icon.png
@@ -419,7 +419,7 @@ flavors:
     app:
       name: سورة محمد
     android:
-      applicationId: com.ario.mhmd
+      applicationId: org.meraaj.mhmd
       firebase:
         config: assets/flavor/mhmd/google-services.json
       icon: assets/flavor/mhmd/icon.png
@@ -428,7 +428,7 @@ flavors:
     app:
       name: سورة الفتح
     android:
-      applicationId: com.ario.fath
+      applicationId: org.meraaj.fath
       firebase:
         config: assets/flavor/fath/google-services.json
       icon: assets/flavor/fath/icon.png
@@ -437,7 +437,7 @@ flavors:
     app:
       name: سورة الحجرات
     android:
-      applicationId: com.ario.hojrat
+      applicationId: org.meraaj.hojrat
       firebase:
         config: assets/flavor/hojrat/google-services.json
       icon: assets/flavor/hojrat/icon.png
@@ -446,7 +446,7 @@ flavors:
     app:
       name: سورة غافر
     android:
-      applicationId: com.ario.qafr
+      applicationId: org.meraaj.qafr
       firebase:
         config: assets/flavor/qafr/google-services.json
       icon: assets/flavor/qafr/icon.png
@@ -455,7 +455,7 @@ flavors:
     app:
       name: سورة الذاريات
     android:
-      applicationId: com.ario.zariyat
+      applicationId: org.meraaj.zariyat
       firebase:
         config: assets/flavor/zariyat/google-services.json
       icon: assets/flavor/zariyat/icon.png
@@ -464,7 +464,7 @@ flavors:
     app:
       name: سورة الطور
     android:
-      applicationId: com.ario.tor
+      applicationId: org.meraaj.tor
       firebase:
         config: assets/flavor/tor/google-services.json
       icon: assets/flavor/tor/icon.png
@@ -473,7 +473,7 @@ flavors:
     app:
       name: سورة النجم
     android:
-      applicationId: com.ario.najm
+      applicationId: org.meraaj.najm
       firebase:
         config: assets/flavor/najm/google-services.json
       icon: assets/flavor/najm/icon.png
@@ -482,7 +482,7 @@ flavors:
     app:
       name: سورة القمر
     android:
-      applicationId: com.ario.ghamar
+      applicationId: org.meraaj.ghamar
       firebase:
         config: assets/flavor/ghamar/google-services.json
       icon: assets/flavor/ghamar/icon.png
@@ -491,7 +491,7 @@ flavors:
     app:
       name: سورة الرحمن
     android:
-      applicationId: com.ario.alrahman
+      applicationId: org.meraaj.alrahman
       firebase:
         config: assets/flavor/alrahman/google-services.json
       icon: assets/flavor/alrahman/icon.png
@@ -500,7 +500,7 @@ flavors:
     app:
       name: سورة الواقعة
     android:
-      applicationId: com.ario.vaqee
+      applicationId: org.meraaj.vaqee
       firebase:
         config: assets/flavor/vaqee/google-services.json
       icon: assets/flavor/vaqee/icon.png
@@ -509,7 +509,7 @@ flavors:
     app:
       name: سورة الحديد
     android:
-      applicationId: com.ario.hadid
+      applicationId: org.meraaj.hadid
       firebase:
         config: assets/flavor/hadid/google-services.json
       icon: assets/flavor/hadid/icon.png
@@ -518,7 +518,7 @@ flavors:
     app:
       name: سورة المجادلة
     android:
-      applicationId: com.ario.mojadl
+      applicationId: org.meraaj.mojadl
       firebase:
         config: assets/flavor/mojadl/google-services.json
       icon: assets/flavor/mojadl/icon.png
@@ -527,7 +527,7 @@ flavors:
     app:
       name: سورة الحشر
     android:
-      applicationId: com.ario.hashr
+      applicationId: org.meraaj.hashr
       firebase:
         config: assets/flavor/hashr/google-services.json
       icon: assets/flavor/hashr/icon.png
@@ -536,7 +536,7 @@ flavors:
     app:
       name: سورة الممتحنة
     android:
-      applicationId: com.ario.momtahn
+      applicationId: org.meraaj.momtahn
       firebase:
         config: assets/flavor/momtahn/google-services.json
       icon: assets/flavor/momtahn/icon.png
@@ -545,7 +545,7 @@ flavors:
     app:
       name: سورة الصف
     android:
-      applicationId: com.ario.saf
+      applicationId: org.meraaj.saf
       firebase:
         config: assets/flavor/saf/google-services.json
       icon: assets/flavor/saf/icon.png
@@ -554,7 +554,7 @@ flavors:
     app:
       name: سورة الجمعة
     android:
-      applicationId: com.ario.jome
+      applicationId: org.meraaj.jome
       firebase:
         config: assets/flavor/jome/google-services.json
       icon: assets/flavor/jome/icon.png
@@ -563,7 +563,7 @@ flavors:
     app:
       name: سورة المنافقون
     android:
-      applicationId: com.ario.mnfghn
+      applicationId: org.meraaj.mnfghn
       firebase:
         config: assets/flavor/mnfghn/google-services.json
       icon: assets/flavor/mnfghn/icon.png
@@ -572,7 +572,7 @@ flavors:
     app:
       name: سورة التغابن
     android:
-      applicationId: com.ario.tghbn
+      applicationId: org.meraaj.tghbn
       firebase:
         config: assets/flavor/tghbn/google-services.json
       icon: assets/flavor/tghbn/icon.png
@@ -581,7 +581,7 @@ flavors:
     app:
       name: سورة الطلاق
     android:
-      applicationId: com.ario.talagh
+      applicationId: org.meraaj.talagh
       firebase:
         config: assets/flavor/talagh/google-services.json
       icon: assets/flavor/talagh/icon.png
@@ -590,7 +590,7 @@ flavors:
     app:
       name: سورة التحريم
     android:
-      applicationId: com.ario.tahrim
+      applicationId: org.meraaj.tahrim
       firebase:
         config: assets/flavor/tahrim/google-services.json
       icon: assets/flavor/tahrim/icon.png
@@ -599,7 +599,7 @@ flavors:
     app:
       name: سورة الملك
     android:
-      applicationId: com.ario.molk
+      applicationId: org.meraaj.molk
       firebase:
         config: assets/flavor/molk/google-services.json
       icon: assets/flavor/molk/icon.png
@@ -608,7 +608,7 @@ flavors:
     app:
       name: سورة القلم
     android:
-      applicationId: com.ario.qlm
+      applicationId: org.meraaj.qlm
       firebase:
         config: assets/flavor/qlm/google-services.json
       icon: assets/flavor/qlm/icon.png
@@ -617,7 +617,7 @@ flavors:
     app:
       name: سورة الحاقة
     android:
-      applicationId: com.ario.haqe
+      applicationId: org.meraaj.haqe
       firebase:
         config: assets/flavor/haqe/google-services.json
       icon: assets/flavor/haqe/icon.png
@@ -626,7 +626,7 @@ flavors:
     app:
       name: سورة المعارج
     android:
-      applicationId: com.ario.mraj
+      applicationId: org.meraaj.mraj
       firebase:
         config: assets/flavor/mraj/google-services.json
       icon: assets/flavor/mraj/icon.png
@@ -635,7 +635,7 @@ flavors:
     app:
       name: سورة نوح
     android:
-      applicationId: com.ario.noh
+      applicationId: org.meraaj.noh
       firebase:
         config: assets/flavor/noh/google-services.json
       icon: assets/flavor/noh/icon.png
@@ -644,7 +644,7 @@ flavors:
     app:
       name: سورة الجن
     android:
-      applicationId: com.ario.jen
+      applicationId: org.meraaj.jen
       firebase:
         config: assets/flavor/jen/google-services.json
       icon: assets/flavor/jen/icon.png
@@ -653,7 +653,7 @@ flavors:
     app:
       name: سورة المزمل
     android:
-      applicationId: com.ario.mozamel
+      applicationId: org.meraaj.mozamel
       firebase:
         config: assets/flavor/mozamel/google-services.json
       icon: assets/flavor/mozamel/icon.png
@@ -662,7 +662,7 @@ flavors:
     app:
       name: سورة المدثر
     android:
-      applicationId: com.ario.mdser
+      applicationId: org.meraaj.mdser
       firebase:
         config: assets/flavor/mdser/google-services.json
       icon: assets/flavor/mdser/icon.png
@@ -671,7 +671,7 @@ flavors:
     app:
       name: سورة القيامة
     android:
-      applicationId: com.ario.ghiyamt
+      applicationId: org.meraaj.ghiyamt
       firebase:
         config: assets/flavor/ghiyamt/google-services.json
       icon: assets/flavor/ghiyamt/icon.png
@@ -680,7 +680,7 @@ flavors:
     app:
       name: سورة الإنسان
     android:
-      applicationId: com.ario.nsan
+      applicationId: org.meraaj.nsan
       firebase:
         config: assets/flavor/nsan/google-services.json
       icon: assets/flavor/nsan/icon.png
@@ -689,7 +689,7 @@ flavors:
     app:
       name: سورة المرسلات
     android:
-      applicationId: com.ario.mrslt
+      applicationId: org.meraaj.mrslt
       firebase:
         config: assets/flavor/mrslt/google-services.json
       icon: assets/flavor/mrslt/icon.png
@@ -698,7 +698,7 @@ flavors:
     app:
       name: سورة النبأ
     android:
-      applicationId: com.ario.naba
+      applicationId: org.meraaj.naba
       firebase:
         config: assets/flavor/naba/google-services.json
       icon: assets/flavor/naba/icon.png
@@ -707,7 +707,7 @@ flavors:
     app:
       name: سورة النازعات
     android:
-      applicationId: com.ario.nazat
+      applicationId: org.meraaj.nazat
       firebase:
         config: assets/flavor/nazat/google-services.json
       icon: assets/flavor/nazat/icon.png
@@ -716,7 +716,7 @@ flavors:
     app:
       name: سورة عبس
     android:
-      applicationId: com.ario.abas
+      applicationId: org.meraaj.abas
       firebase:
         config: assets/flavor/abas/google-services.json
       icon: assets/flavor/abas/icon.png
@@ -725,7 +725,7 @@ flavors:
     app:
       name: سورة التكوير
     android:
-      applicationId: com.ario.takwir
+      applicationId: org.meraaj.takwir
       firebase:
         config: assets/flavor/takwir/google-services.json
       icon: assets/flavor/takwir/icon.png
@@ -734,7 +734,7 @@ flavors:
     app:
       name: سورة الانفطار
     android:
-      applicationId: com.ario.nftar
+      applicationId: org.meraaj.nftar
       firebase:
         config: assets/flavor/nftar/google-services.json
       icon: assets/flavor/nftar/icon.png
@@ -743,7 +743,7 @@ flavors:
     app:
       name: سورة المطففين
     android:
-      applicationId: com.ario.mtffin
+      applicationId: org.meraaj.mtffin
       firebase:
         config: assets/flavor/mtffin/google-services.json
       icon: assets/flavor/mtffin/icon.png
@@ -752,7 +752,7 @@ flavors:
     app:
       name: سورة الانشقاق
     android:
-      applicationId: com.ario.nshqaq
+      applicationId: org.meraaj.nshqaq
       firebase:
         config: assets/flavor/nshqaq/google-services.json
       icon: assets/flavor/nshqaq/icon.png
@@ -761,7 +761,7 @@ flavors:
     app:
       name: سورة البروج
     android:
-      applicationId: com.ario.broj
+      applicationId: org.meraaj.broj
       firebase:
         config: assets/flavor/broj/google-services.json
       icon: assets/flavor/broj/icon.png
@@ -770,7 +770,7 @@ flavors:
     app:
       name: سورة الطارق
     android:
-      applicationId: com.ario.taregh
+      applicationId: org.meraaj.taregh
       firebase:
         config: assets/flavor/taregh/google-services.json
       icon: assets/flavor/taregh/icon.png
@@ -779,7 +779,7 @@ flavors:
     app:
       name: سورة الأعلى
     android:
-      applicationId: com.ario.ala
+      applicationId: org.meraaj.ala
       firebase:
         config: assets/flavor/ala/google-services.json
       icon: assets/flavor/ala/icon.png
@@ -788,7 +788,7 @@ flavors:
     app:
       name: سورة الغاشية
     android:
-      applicationId: com.ario.qashie
+      applicationId: org.meraaj.qashie
       firebase:
         config: assets/flavor/qashie/google-services.json
       icon: assets/flavor/qashie/icon.png
@@ -797,7 +797,7 @@ flavors:
     app:
       name: سورة الفجر
     android:
-      applicationId: com.ario.fajr
+      applicationId: org.meraaj.fajr
       firebase:
         config: assets/flavor/fajr/google-services.json
       icon: assets/flavor/fajr/icon.png
@@ -806,7 +806,7 @@ flavors:
     app:
       name: سورة البلد
     android:
-      applicationId: com.ario.balad
+      applicationId: org.meraaj.balad
       firebase:
         config: assets/flavor/balad/google-services.json
       icon: assets/flavor/balad/icon.png
@@ -815,7 +815,7 @@ flavors:
     app:
       name: سورة الشمس
     android:
-      applicationId: com.ario.shams
+      applicationId: org.meraaj.shams
       firebase:
         config: assets/flavor/shams/google-services.json
       icon: assets/flavor/shams/icon.png
@@ -824,7 +824,7 @@ flavors:
     app:
       name: سورة الليل
     android:
-      applicationId: com.ario.layl
+      applicationId: org.meraaj.layl
       firebase:
         config: assets/flavor/layl/google-services.json
       icon: assets/flavor/layl/icon.png
@@ -833,7 +833,7 @@ flavors:
     app:
       name: سورة الضحى
     android:
-      applicationId: com.ario.zoha
+      applicationId: org.meraaj.zoha
       firebase:
         config: assets/flavor/zoha/google-services.json
       icon: assets/flavor/zoha/icon.png
@@ -842,7 +842,7 @@ flavors:
     app:
       name: سورة الشرح
     android:
-      applicationId: com.ario.sharh
+      applicationId: org.meraaj.sharh
       firebase:
         config: assets/flavor/sharh/google-services.json
       icon: assets/flavor/sharh/icon.png
@@ -851,7 +851,7 @@ flavors:
     app:
       name: سورة التين
     android:
-      applicationId: com.ario.tin
+      applicationId: org.meraaj.tin
       firebase:
         config: assets/flavor/tin/google-services.json
       icon: assets/flavor/tin/icon.png
@@ -860,7 +860,7 @@ flavors:
     app:
       name: سورة العلق
     android:
-      applicationId: com.ario.alaq
+      applicationId: org.meraaj.alaq
       firebase:
         config: assets/flavor/alaq/google-services.json
       icon: assets/flavor/alaq/icon.png
@@ -869,7 +869,7 @@ flavors:
     app:
       name: سورة القدر
     android:
-      applicationId: com.ario.qadr
+      applicationId: org.meraaj.qadr
       firebase:
         config: assets/flavor/qadr/google-services.json
       icon: assets/flavor/qadr/icon.png
@@ -878,7 +878,7 @@ flavors:
     app:
       name: سورة البينة
     android:
-      applicationId: com.ario.bayyina
+      applicationId: org.meraaj.bayyina
       firebase:
         config: assets/flavor/bayyina/google-services.json
       icon: assets/flavor/bayyina/icon.png
@@ -887,7 +887,7 @@ flavors:
     app:
       name: سورة الزلزلة
     android:
-      applicationId: com.ario.zalzalah
+      applicationId: org.meraaj.zalzalah
       firebase:
         config: assets/flavor/zalzalah/google-services.json
       icon: assets/flavor/zalzalah/icon.png
@@ -896,7 +896,7 @@ flavors:
     app:
       name: سورة العاديات
     android:
-      applicationId: com.ario.adiyat
+      applicationId: org.meraaj.adiyat
       firebase:
         config: assets/flavor/adiyat/google-services.json
       icon: assets/flavor/adiyat/icon.png
@@ -905,7 +905,7 @@ flavors:
     app:
       name: سورة القارعة
     android:
-      applicationId: com.ario.qariah
+      applicationId: org.meraaj.qariah
       firebase:
         config: assets/flavor/qariah/google-services.json
       icon: assets/flavor/qariah/icon.png
@@ -914,7 +914,7 @@ flavors:
     app:
       name: سورة التكاثر
     android:
-      applicationId: com.ario.takathur
+      applicationId: org.meraaj.takathur
       firebase:
         config: assets/flavor/takathur/google-services.json
       icon: assets/flavor/takathur/icon.png
@@ -923,7 +923,7 @@ flavors:
     app:
       name: سورة العصر
     android:
-      applicationId: com.ario.asr
+      applicationId: org.meraaj.asr
       firebase:
         config: assets/flavor/asr/google-services.json
       icon: assets/flavor/asr/icon.png
@@ -932,7 +932,7 @@ flavors:
     app:
       name: سورة الهمزة
     android:
-      applicationId: com.ario.humazah
+      applicationId: org.meraaj.humazah
       firebase:
         config: assets/flavor/humazah/google-services.json
       icon: assets/flavor/humazah/icon.png
@@ -941,7 +941,7 @@ flavors:
     app:
       name: سورة الفيل
     android:
-      applicationId: com.ario.fil
+      applicationId: org.meraaj.fil
       firebase:
         config: assets/flavor/fil/google-services.json
       icon: assets/flavor/fil/icon.png
@@ -950,7 +950,7 @@ flavors:
     app:
       name: سورة قريش
     android:
-      applicationId: com.ario.quraysh
+      applicationId: org.meraaj.quraysh
       firebase:
         config: assets/flavor/quraysh/google-services.json
       icon: assets/flavor/quraysh/icon.png
@@ -959,7 +959,7 @@ flavors:
     app:
       name: سورة الماعون
     android:
-      applicationId: com.ario.maun
+      applicationId: org.meraaj.maun
       firebase:
         config: assets/flavor/maun/google-services.json
       icon: assets/flavor/maun/icon.png
@@ -968,7 +968,7 @@ flavors:
     app:
       name: سورة الكوثر
     android:
-      applicationId: com.ario.kawthar
+      applicationId: org.meraaj.kawthar
       firebase:
         config: assets/flavor/kawthar/google-services.json
       icon: assets/flavor/kawthar/icon.png
@@ -977,7 +977,7 @@ flavors:
     app:
       name: سورة الكافرون
     android:
-      applicationId: com.ario.kafirun
+      applicationId: org.meraaj.kafirun
       firebase:
         config: assets/flavor/kafirun/google-services.json
       icon: assets/flavor/kafirun/icon.png
@@ -986,7 +986,7 @@ flavors:
     app:
       name: سورة النصر
     android:
-      applicationId: com.ario.nasr
+      applicationId: org.meraaj.nasr
       firebase:
         config: assets/flavor/nasr/google-services.json
       icon: assets/flavor/nasr/icon.png
@@ -995,7 +995,7 @@ flavors:
     app:
       name: سورة المسد
     android:
-      applicationId: com.ario.masad
+      applicationId: org.meraaj.masad
       firebase:
         config: assets/flavor/masad/google-services.json
       icon: assets/flavor/masad/icon.png
@@ -1004,7 +1004,7 @@ flavors:
     app:
       name: سورة الإخلاص
     android:
-      applicationId: com.ario.ikhlas
+      applicationId: org.meraaj.ikhlas
       firebase:
         config: assets/flavor/ikhlas/google-services.json
       icon: assets/flavor/ikhlas/icon.png
@@ -1013,7 +1013,7 @@ flavors:
     app:
       name: سورة الفلق
     android:
-      applicationId: com.ario.falaq
+      applicationId: org.meraaj.falaq
       firebase:
         config: assets/flavor/falaq/google-services.json
       icon: assets/flavor/falaq/icon.png
@@ -1022,7 +1022,7 @@ flavors:
     app:
       name: سورة الناس
     android:
-      applicationId: com.ario.nas
+      applicationId: org.meraaj.nas
       firebase:
         config: assets/flavor/nas/google-services.json
       icon: assets/flavor/nas/icon.png

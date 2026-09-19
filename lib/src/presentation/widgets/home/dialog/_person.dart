@@ -169,9 +169,9 @@ class _LoadedTranslators extends StatelessWidget {
 }
 
 class _RemoveItem extends StatelessWidget {
-  const _RemoveItem({required this.onTap, this.isActive = false});
+  const _RemoveItem({required this.onTap});
   final VoidCallback onTap;
-  final bool isActive;
+  final bool isActive = false;
 
   @override
   Widget build(BuildContext context) {

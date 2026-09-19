@@ -15,7 +15,6 @@ class _Body extends StatelessWidget {
               previous.changeQari != current.changeQari,
           listener: (context, state) {
             final status = state.changeQari;
-
             //success
             if (status is SuIndexedStatus) {
               context.read<SuraCubit>()
@@ -29,8 +28,6 @@ class _Body extends StatelessWidget {
               previous.changeTranslator != current.changeTranslator,
           listener: (context, state) {
             final status = state.changeTranslator;
-
-            //success
             if (status is SuDataIndexedStatus<int?>) {
               final cubit = context.read<SuraCubit>();
               if (status.data == null) {
@@ -46,9 +43,9 @@ class _Body extends StatelessWidget {
         child: Stack(
           children: [
             Padding(
-              padding: const EdgeInsets.only(left: 26, right: 26, top: 60),
+              padding: const EdgeInsets.only(left: 30, right: 30, top: 130),
               child: Column(
-                spacing: 40,
+                spacing: 20,
                 children: [
                   Text(
                     F.title,

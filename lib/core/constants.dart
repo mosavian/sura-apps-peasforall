@@ -2,9 +2,9 @@ final class Constants {
   const Constants();
 
   static const baseUrl = 'https://makesence.org/quran';
-  static const ivarAdsAppID = '686e16aa8acfc04553ca0630';
+  static const ivarAdsAppID = '693e6caaf53e68227c9e67cd';
   static const marketDeveloperLink =
-      'https://play.google.com/store/apps/developer?id=meissamv';
+      'https://play.google.com/store/apps/dev?id=9018409929726816176';
   static const myEmail = 'mosavi433@gmail.com';
   static const donateLink = 'https://zarinp.al/670909';
 

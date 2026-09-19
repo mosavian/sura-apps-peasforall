@@ -16,7 +16,7 @@ publish_to: 'none' # Remove this line if you wish to publish to pub.dev
 # https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
 # In Windows, build-name is used as the major, minor, and patch parts
 # of the product and file versions while build-number is used as the build suffix.
-version: 1.1.0+4
+version: 64.0.0+64
 
 environment:
   sdk: ^3.9.2
@@ -97,120 +97,120 @@ flutter:
     - assets/images/
     - assets/images/qari/
     - assets/images/translator/
-    # - assets/flavor/fatiha/
-    # - assets/flavor/baqareh/
-    # - assets/flavor/emran/
-    # - assets/flavor/nesa/
-    # - assets/flavor/maede/
-    # - assets/flavor/anam/
-    # - assets/flavor/eraf/
-    # - assets/flavor/anfal/
-    # - assets/flavor/tobeh/
-    # - assets/flavor/yones/
-    # - assets/flavor/hod/
-    # - assets/flavor/usef/
-    # - assets/flavor/raad/
-    # - assets/flavor/ebrahim/
-    # - assets/flavor/hajar/
-    # - assets/flavor/nahl/
-    # - assets/flavor/esra/
-    # - assets/flavor/kahf/
-    # - assets/flavor/maryam/
-    # - assets/flavor/taha/
-    # - assets/flavor/anbya/
-    # - assets/flavor/haj/
-    # - assets/flavor/momenon/
-    # - assets/flavor/nor/
-    # - assets/flavor/forghan/
-    # - assets/flavor/shoara/
-    # - assets/flavor/naml/
-    # - assets/flavor/ghesas/
-    # - assets/flavor/ankaboot/
-    # - assets/flavor/rom/
-    # - assets/flavor/loghman/
-    # - assets/flavor/sajdeh/
-    # - assets/flavor/ahzab/
-    # - assets/flavor/saba/
-    # - assets/flavor/fater/
-    # - assets/flavor/yasin/
-    # - assets/flavor/safat/
-    # - assets/flavor/sad/
-    # - assets/flavor/zmr/
-    # - assets/flavor/qafr/
-    # - assets/flavor/fslat/
-    # - assets/flavor/shora/
-    # - assets/flavor/zkhrf/
-    # - assets/flavor/dokhan/
-    # - assets/flavor/jasieh/
-    # - assets/flavor/ahghaf/
-    # - assets/flavor/mhmd/
-    # - assets/flavor/fath/
-    # - assets/flavor/hojrat/
-    # - assets/flavor/ghaf/
-    # - assets/flavor/zariyat/
-    # - assets/flavor/tor/
-    # - assets/flavor/najm/
-    # - assets/flavor/ghamar/
-    # - assets/flavor/alrahman/
-    # - assets/flavor/vaqee/
-    # - assets/flavor/hadid/
-    # - assets/flavor/mojadl/
+    - assets/flavor/fatiha/
+    - assets/flavor/baqareh/
+    - assets/flavor/emran/
+    - assets/flavor/nesa/
+    - assets/flavor/maede/
+    - assets/flavor/anam/
+    - assets/flavor/eraf/
+    - assets/flavor/anfal/
+    - assets/flavor/tobeh/
+    - assets/flavor/yones/
+    - assets/flavor/hod/
+    - assets/flavor/usef/
+    - assets/flavor/raad/ 
+    - assets/flavor/ebrahim/
+    - assets/flavor/hajar/
+    - assets/flavor/nahl/
+    - assets/flavor/esra/
+    - assets/flavor/kahf/
+    - assets/flavor/maryam/
+    - assets/flavor/taha/
+    - assets/flavor/anbya/
+    - assets/flavor/haj/
+    - assets/flavor/momenon/
+    - assets/flavor/nor/
+    - assets/flavor/forghan/
+    - assets/flavor/shoara/
+    - assets/flavor/naml/
+    - assets/flavor/ghesas/
+    - assets/flavor/ankaboot/
+    - assets/flavor/rom/
+    - assets/flavor/loghman/
+    - assets/flavor/sajdeh/
+    - assets/flavor/ahzab/
+    - assets/flavor/saba/
+    - assets/flavor/fater/
+    - assets/flavor/yasin/
+    - assets/flavor/safat/
+    - assets/flavor/sad/
+    - assets/flavor/zmr/
+    - assets/flavor/qafr/
+    - assets/flavor/fslat/
+    - assets/flavor/shora/
+    - assets/flavor/zkhrf/
+    - assets/flavor/dokhan/
+    - assets/flavor/jasieh/
+    - assets/flavor/ahghaf/
+    - assets/flavor/mhmd/
+    - assets/flavor/fath/
+    - assets/flavor/hojrat/
+    - assets/flavor/ghaf/
+    - assets/flavor/zariyat/
+    - assets/flavor/tor/
+    - assets/flavor/najm/
+    - assets/flavor/ghamar/
+    - assets/flavor/alrahman/
+    - assets/flavor/vaqee/
+    - assets/flavor/hadid/
+    - assets/flavor/mojadl/
     - assets/flavor/hashr/
-    # - assets/flavor/momtahn/
-    # - assets/flavor/saf/
-    # - assets/flavor/jome/
-    # - assets/flavor/mnfghn/
-    # - assets/flavor/tghbn/
-    # - assets/flavor/talagh/
-    # - assets/flavor/tahrim/
-    # - assets/flavor/molk/
-    # - assets/flavor/qlm/
-    # - assets/flavor/haqe/
-    # - assets/flavor/mraj/
-    # - assets/flavor/noh/
-    # - assets/flavor/jen/
-    # - assets/flavor/mozamel/
-    # - assets/flavor/mdser/
-    # - assets/flavor/ghiyamt/
-    # - assets/flavor/nsan/
-    # - assets/flavor/mrslt/
-    # - assets/flavor/naba/
-    # - assets/flavor/nazat/
-    # - assets/flavor/abas/
-    # - assets/flavor/takwir/
-    # - assets/flavor/nftar/
-    # - assets/flavor/mtffin/
-    # - assets/flavor/nshqaq/
-    # - assets/flavor/broj/
-    # - assets/flavor/taregh/
-    # - assets/flavor/ala/
-    # - assets/flavor/qashie/
-    # - assets/flavor/fajr/
-    # - assets/flavor/balad/
-    # - assets/flavor/shams/
-    # - assets/flavor/layl/
-    # - assets/flavor/zoha/
-    # - assets/flavor/sharh/
-    # - assets/flavor/tin/
-    # - assets/flavor/alaq/
-    # - assets/flavor/qadr/
-    # - assets/flavor/bayyina/
-    # - assets/flavor/zalzalah/
-    # - assets/flavor/adiyat/
-    # - assets/flavor/qariah/
-    # - assets/flavor/takathur/
-    # - assets/flavor/asr/
-    # - assets/flavor/humazah/
-    # - assets/flavor/fil/
-    # - assets/flavor/quraysh/
-    # - assets/flavor/maun/
-    # - assets/flavor/kawthar/
-    # - assets/flavor/kafirun/
-    # - assets/flavor/nasr/
-    # - assets/flavor/masad/
-    # - assets/flavor/ikhlas/
-    # - assets/flavor/falaq/
-    # - assets/flavor/nas/
+    - assets/flavor/momtahn/
+    - assets/flavor/saf/
+    - assets/flavor/jome/
+    - assets/flavor/mnfghn/
+    - assets/flavor/tghbn/
+    - assets/flavor/talagh/
+    - assets/flavor/tahrim/
+    - assets/flavor/molk/
+    - assets/flavor/qlm/
+    - assets/flavor/haqe/
+    - assets/flavor/mraj/
+    - assets/flavor/noh/
+    - assets/flavor/jen/
+    - assets/flavor/mozamel/
+    - assets/flavor/mdser/
+    - assets/flavor/ghiyamt/
+    - assets/flavor/nsan/
+    - assets/flavor/mrslt/
+    - assets/flavor/naba/
+    - assets/flavor/nazat/
+    - assets/flavor/abas/
+    - assets/flavor/takwir/
+    - assets/flavor/nftar/
+    - assets/flavor/mtffin/
+    - assets/flavor/nshqaq/
+    - assets/flavor/broj/
+    - assets/flavor/taregh/
+    - assets/flavor/ala/
+    - assets/flavor/qashie/
+    - assets/flavor/fajr/
+    - assets/flavor/balad/
+    - assets/flavor/shams/
+    - assets/flavor/layl/
+    - assets/flavor/zoha/
+    - assets/flavor/sharh/
+    - assets/flavor/tin/
+    - assets/flavor/alaq/
+    - assets/flavor/qadr/
+    - assets/flavor/bayyina/
+    - assets/flavor/zalzalah/
+    - assets/flavor/adiyat/
+    - assets/flavor/qariah/
+    - assets/flavor/takathur/
+    - assets/flavor/asr/
+    - assets/flavor/humazah/
+    - assets/flavor/fil/
+    - assets/flavor/quraysh/
+    - assets/flavor/maun/
+    - assets/flavor/kawthar/
+    - assets/flavor/kafirun/
+    - assets/flavor/nasr/
+    - assets/flavor/masad/
+    - assets/flavor/ikhlas/
+    - assets/flavor/falaq/
+    - assets/flavor/nas/
     # - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see

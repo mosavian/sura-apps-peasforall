@@ -70,965 +70,1037 @@ class DefaultFirebaseOptions {
 
   static FirebaseOptions get android {
     switch (F.appFlavor) {
-      case Flavor.ahghaf:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyBKmy1gOYgj4U1vYyDzDgs1fiUTNkQocXE',
-          appId: '1:542205305563:android:ecb7076069bdd5ba1aa2fe',
-          messagingSenderId: '542205305563',
-          projectId: 'quran-73b59',
-          databaseURL: 'https://quran-73b59.firebaseio.com',
-          storageBucket: 'quran-73b59.firebasestorage.app',
-        );
-      case Flavor.ahzab:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyBKmy1gOYgj4U1vYyDzDgs1fiUTNkQocXE',
-          appId: '1:542205305563:android:5ec0eba112b28a791aa2fe',
-          messagingSenderId: '542205305563',
-          projectId: 'quran-73b59',
-          databaseURL: 'https://quran-73b59.firebaseio.com',
-          storageBucket: 'quran-73b59.firebasestorage.app',
-        );
-      case Flavor.alrahman:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyBKmy1gOYgj4U1vYyDzDgs1fiUTNkQocXE',
-          appId: '1:542205305563:android:1ab2f48e7082a6e31aa2fe',
-          messagingSenderId: '542205305563',
-          projectId: 'quran-73b59',
-          databaseURL: 'https://quran-73b59.firebaseio.com',
-          storageBucket: 'quran-73b59.firebasestorage.app',
-        );
       case Flavor.anam:
         return const FirebaseOptions(
-          apiKey: 'AIzaSyBKmy1gOYgj4U1vYyDzDgs1fiUTNkQocXE',
-          appId: '1:542205305563:android:279afcc001b06b811aa2fe',
-          messagingSenderId: '542205305563',
-          projectId: 'quran-73b59',
-          databaseURL: 'https://quran-73b59.firebaseio.com',
-          storageBucket: 'quran-73b59.firebasestorage.app',
+          apiKey: 'AIzaSyCZ4T4X7HhtfQwH3D4xGeGMJxhlUSeZ7nQ',
+          appId: '1:337075706174:android:a6c1562a61a6003ae2746f',
+          messagingSenderId: '337075706174',
+          projectId: 'quranmeraj2',
+          databaseURL: 'https://quranmeraj2.firebaseio.com',
+          storageBucket: 'quranmeraj2.firebasestorage.app',
         );
       case Flavor.anbya:
         return const FirebaseOptions(
-          apiKey: 'AIzaSyBKmy1gOYgj4U1vYyDzDgs1fiUTNkQocXE',
-          appId: '1:542205305563:android:a254270e336565f91aa2fe',
-          messagingSenderId: '542205305563',
-          projectId: 'quran-73b59',
-          databaseURL: 'https://quran-73b59.firebaseio.com',
-          storageBucket: 'quran-73b59.firebasestorage.app',
+          apiKey: 'AIzaSyCZ4T4X7HhtfQwH3D4xGeGMJxhlUSeZ7nQ',
+          appId: '1:337075706174:android:e00b8082dc34792ae2746f',
+          messagingSenderId: '337075706174',
+          projectId: 'quranmeraj2',
+          databaseURL: 'https://quranmeraj2.firebaseio.com',
+          storageBucket: 'quranmeraj2.firebasestorage.app',
         );
       case Flavor.ankaboot:
         return const FirebaseOptions(
-          apiKey: 'AIzaSyBKmy1gOYgj4U1vYyDzDgs1fiUTNkQocXE',
-          appId: '1:542205305563:android:4759ed18e8e7a85f1aa2fe',
-          messagingSenderId: '542205305563',
-          projectId: 'quran-73b59',
-          databaseURL: 'https://quran-73b59.firebaseio.com',
-          storageBucket: 'quran-73b59.firebasestorage.app',
+          apiKey: 'AIzaSyCZ4T4X7HhtfQwH3D4xGeGMJxhlUSeZ7nQ',
+          appId: '1:337075706174:android:a7c3ddd707009e5be2746f',
+          messagingSenderId: '337075706174',
+          projectId: 'quranmeraj2',
+          databaseURL: 'https://quranmeraj2.firebaseio.com',
+          storageBucket: 'quranmeraj2.firebasestorage.app',
         );
       case Flavor.baqareh:
         return const FirebaseOptions(
-          apiKey: 'AIzaSyBKmy1gOYgj4U1vYyDzDgs1fiUTNkQocXE',
-          appId: '1:542205305563:android:92fdcebc3a43d5e21aa2fe',
-          messagingSenderId: '542205305563',
-          projectId: 'quran-73b59',
-          databaseURL: 'https://quran-73b59.firebaseio.com',
-          storageBucket: 'quran-73b59.firebasestorage.app',
-        );
-      case Flavor.dokhan:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyBKmy1gOYgj4U1vYyDzDgs1fiUTNkQocXE',
-          appId: '1:542205305563:android:8a1341139612001f1aa2fe',
-          messagingSenderId: '542205305563',
-          projectId: 'quran-73b59',
-          databaseURL: 'https://quran-73b59.firebaseio.com',
-          storageBucket: 'quran-73b59.firebasestorage.app',
+          apiKey: 'AIzaSyCZ4T4X7HhtfQwH3D4xGeGMJxhlUSeZ7nQ',
+          appId: '1:337075706174:android:cff8c49552af0e21e2746f',
+          messagingSenderId: '337075706174',
+          projectId: 'quranmeraj2',
+          databaseURL: 'https://quranmeraj2.firebaseio.com',
+          storageBucket: 'quranmeraj2.firebasestorage.app',
         );
       case Flavor.ebrahim:
         return const FirebaseOptions(
-          apiKey: 'AIzaSyBKmy1gOYgj4U1vYyDzDgs1fiUTNkQocXE',
-          appId: '1:542205305563:android:557adebbef1804931aa2fe',
-          messagingSenderId: '542205305563',
-          projectId: 'quran-73b59',
-          databaseURL: 'https://quran-73b59.firebaseio.com',
-          storageBucket: 'quran-73b59.firebasestorage.app',
+          apiKey: 'AIzaSyCZ4T4X7HhtfQwH3D4xGeGMJxhlUSeZ7nQ',
+          appId: '1:337075706174:android:d432b52948584cb6e2746f',
+          messagingSenderId: '337075706174',
+          projectId: 'quranmeraj2',
+          databaseURL: 'https://quranmeraj2.firebaseio.com',
+          storageBucket: 'quranmeraj2.firebasestorage.app',
         );
       case Flavor.emran:
         return const FirebaseOptions(
-          apiKey: 'AIzaSyBKmy1gOYgj4U1vYyDzDgs1fiUTNkQocXE',
-          appId: '1:542205305563:android:030bc66393e905f81aa2fe',
-          messagingSenderId: '542205305563',
-          projectId: 'quran-73b59',
-          databaseURL: 'https://quran-73b59.firebaseio.com',
-          storageBucket: 'quran-73b59.firebasestorage.app',
-        );
-      case Flavor.eraf:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyBKmy1gOYgj4U1vYyDzDgs1fiUTNkQocXE',
-          appId: '1:542205305563:android:2e7aba9340ff981a1aa2fe',
-          messagingSenderId: '542205305563',
-          projectId: 'quran-73b59',
-          databaseURL: 'https://quran-73b59.firebaseio.com',
-          storageBucket: 'quran-73b59.firebasestorage.app',
-        );
-      case Flavor.esra:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyBKmy1gOYgj4U1vYyDzDgs1fiUTNkQocXE',
-          appId: '1:542205305563:android:97a989541e6938d71aa2fe',
-          messagingSenderId: '542205305563',
-          projectId: 'quran-73b59',
-          databaseURL: 'https://quran-73b59.firebaseio.com',
-          storageBucket: 'quran-73b59.firebasestorage.app',
-        );
-      case Flavor.fater:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyBKmy1gOYgj4U1vYyDzDgs1fiUTNkQocXE',
-          appId: '1:542205305563:android:1670eea8b83991151aa2fe',
-          messagingSenderId: '542205305563',
-          projectId: 'quran-73b59',
-          databaseURL: 'https://quran-73b59.firebaseio.com',
-          storageBucket: 'quran-73b59.firebasestorage.app',
-        );
-      case Flavor.forghan:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyBKmy1gOYgj4U1vYyDzDgs1fiUTNkQocXE',
-          appId: '1:542205305563:android:8456c04c4924dc4f1aa2fe',
-          messagingSenderId: '542205305563',
-          projectId: 'quran-73b59',
-          databaseURL: 'https://quran-73b59.firebaseio.com',
-          storageBucket: 'quran-73b59.firebasestorage.app',
-        );
-      case Flavor.ghesas:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyBKmy1gOYgj4U1vYyDzDgs1fiUTNkQocXE',
-          appId: '1:542205305563:android:2f4845e03085e6981aa2fe',
-          messagingSenderId: '542205305563',
-          projectId: 'quran-73b59',
-          databaseURL: 'https://quran-73b59.firebaseio.com',
-          storageBucket: 'quran-73b59.firebasestorage.app',
-        );
-      case Flavor.haj:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyBKmy1gOYgj4U1vYyDzDgs1fiUTNkQocXE',
-          appId: '1:542205305563:android:746d4e773b494db41aa2fe',
-          messagingSenderId: '542205305563',
-          projectId: 'quran-73b59',
-          databaseURL: 'https://quran-73b59.firebaseio.com',
-          storageBucket: 'quran-73b59.firebasestorage.app',
-        );
-      case Flavor.hajar:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyBKmy1gOYgj4U1vYyDzDgs1fiUTNkQocXE',
-          appId: '1:542205305563:android:80f3a265f0d3e0151aa2fe',
-          messagingSenderId: '542205305563',
-          projectId: 'quran-73b59',
-          databaseURL: 'https://quran-73b59.firebaseio.com',
-          storageBucket: 'quran-73b59.firebasestorage.app',
-        );
-      case Flavor.hashr:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyBKmy1gOYgj4U1vYyDzDgs1fiUTNkQocXE',
-          appId: '1:542205305563:android:99323a99645351dc1aa2fe',
-          messagingSenderId: '542205305563',
-          projectId: 'quran-73b59',
-          databaseURL: 'https://quran-73b59.firebaseio.com',
-          storageBucket: 'quran-73b59.firebasestorage.app',
-        );
-      case Flavor.hod:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyBKmy1gOYgj4U1vYyDzDgs1fiUTNkQocXE',
-          appId: '1:542205305563:android:5fefa90e1f07ce441aa2fe',
-          messagingSenderId: '542205305563',
-          projectId: 'quran-73b59',
-          databaseURL: 'https://quran-73b59.firebaseio.com',
-          storageBucket: 'quran-73b59.firebasestorage.app',
-        );
-      case Flavor.jome:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyBKmy1gOYgj4U1vYyDzDgs1fiUTNkQocXE',
-          appId: '1:542205305563:android:ce3949298a87b6e21aa2fe',
-          messagingSenderId: '542205305563',
-          projectId: 'quran-73b59',
-          databaseURL: 'https://quran-73b59.firebaseio.com',
-          storageBucket: 'quran-73b59.firebasestorage.app',
-        );
-      case Flavor.kahf:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyBKmy1gOYgj4U1vYyDzDgs1fiUTNkQocXE',
-          appId: '1:542205305563:android:304ce93d4ea0be6a1aa2fe',
-          messagingSenderId: '542205305563',
-          projectId: 'quran-73b59',
-          databaseURL: 'https://quran-73b59.firebaseio.com',
-          storageBucket: 'quran-73b59.firebasestorage.app',
-        );
-      case Flavor.loghman:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyBKmy1gOYgj4U1vYyDzDgs1fiUTNkQocXE',
-          appId: '1:542205305563:android:4ba4d03e22e922921aa2fe',
-          messagingSenderId: '542205305563',
-          projectId: 'quran-73b59',
-          databaseURL: 'https://quran-73b59.firebaseio.com',
-          storageBucket: 'quran-73b59.firebasestorage.app',
-        );
-      case Flavor.maede:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyBKmy1gOYgj4U1vYyDzDgs1fiUTNkQocXE',
-          appId: '1:542205305563:android:590787495bc174881aa2fe',
-          messagingSenderId: '542205305563',
-          projectId: 'quran-73b59',
-          databaseURL: 'https://quran-73b59.firebaseio.com',
-          storageBucket: 'quran-73b59.firebasestorage.app',
-        );
-      case Flavor.maryam:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyBKmy1gOYgj4U1vYyDzDgs1fiUTNkQocXE',
-          appId: '1:542205305563:android:aa1ed76a334a6bc91aa2fe',
-          messagingSenderId: '542205305563',
-          projectId: 'quran-73b59',
-          databaseURL: 'https://quran-73b59.firebaseio.com',
-          storageBucket: 'quran-73b59.firebasestorage.app',
-        );
-      case Flavor.molk:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyBKmy1gOYgj4U1vYyDzDgs1fiUTNkQocXE',
-          appId: '1:542205305563:android:073ee3209924be541aa2fe',
-          messagingSenderId: '542205305563',
-          projectId: 'quran-73b59',
-          databaseURL: 'https://quran-73b59.firebaseio.com',
-          storageBucket: 'quran-73b59.firebasestorage.app',
-        );
-      case Flavor.momenon:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyBKmy1gOYgj4U1vYyDzDgs1fiUTNkQocXE',
-          appId: '1:542205305563:android:bc5ceaf667898a201aa2fe',
-          messagingSenderId: '542205305563',
-          projectId: 'quran-73b59',
-          databaseURL: 'https://quran-73b59.firebaseio.com',
-          storageBucket: 'quran-73b59.firebasestorage.app',
-        );
-      case Flavor.mozamel:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyBKmy1gOYgj4U1vYyDzDgs1fiUTNkQocXE',
-          appId: '1:542205305563:android:765d17670816288b1aa2fe',
-          messagingSenderId: '542205305563',
-          projectId: 'quran-73b59',
-          databaseURL: 'https://quran-73b59.firebaseio.com',
-          storageBucket: 'quran-73b59.firebasestorage.app',
-        );
-      case Flavor.nahl:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyBKmy1gOYgj4U1vYyDzDgs1fiUTNkQocXE',
-          appId: '1:542205305563:android:f4163c6ecba875be1aa2fe',
-          messagingSenderId: '542205305563',
-          projectId: 'quran-73b59',
-          databaseURL: 'https://quran-73b59.firebaseio.com',
-          storageBucket: 'quran-73b59.firebasestorage.app',
-        );
-      case Flavor.najm:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyBKmy1gOYgj4U1vYyDzDgs1fiUTNkQocXE',
-          appId: '1:542205305563:android:55e92eeb38c857701aa2fe',
-          messagingSenderId: '542205305563',
-          projectId: 'quran-73b59',
-          databaseURL: 'https://quran-73b59.firebaseio.com',
-          storageBucket: 'quran-73b59.firebasestorage.app',
-        );
-      case Flavor.naml:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyBKmy1gOYgj4U1vYyDzDgs1fiUTNkQocXE',
-          appId: '1:542205305563:android:e1fad601d04ab0db1aa2fe',
-          messagingSenderId: '542205305563',
-          projectId: 'quran-73b59',
-          databaseURL: 'https://quran-73b59.firebaseio.com',
-          storageBucket: 'quran-73b59.firebasestorage.app',
-        );
-      case Flavor.nesa:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyBKmy1gOYgj4U1vYyDzDgs1fiUTNkQocXE',
-          appId: '1:542205305563:android:7b48d8244277dd511aa2fe',
-          messagingSenderId: '542205305563',
-          projectId: 'quran-73b59',
-          databaseURL: 'https://quran-73b59.firebaseio.com',
-          storageBucket: 'quran-73b59.firebasestorage.app',
-        );
-      case Flavor.nor:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyBKmy1gOYgj4U1vYyDzDgs1fiUTNkQocXE',
-          appId: '1:542205305563:android:a58e32191c8ffc7e1aa2fe',
-          messagingSenderId: '542205305563',
-          projectId: 'quran-73b59',
-          databaseURL: 'https://quran-73b59.firebaseio.com',
-          storageBucket: 'quran-73b59.firebasestorage.app',
-        );
-      case Flavor.raad:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyBKmy1gOYgj4U1vYyDzDgs1fiUTNkQocXE',
-          appId: '1:542205305563:android:494215415a29615d1aa2fe',
-          messagingSenderId: '542205305563',
-          projectId: 'quran-73b59',
-          databaseURL: 'https://quran-73b59.firebaseio.com',
-          storageBucket: 'quran-73b59.firebasestorage.app',
-        );
-      case Flavor.rom:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyBKmy1gOYgj4U1vYyDzDgs1fiUTNkQocXE',
-          appId: '1:542205305563:android:ca9835fda1b907081aa2fe',
-          messagingSenderId: '542205305563',
-          projectId: 'quran-73b59',
-          databaseURL: 'https://quran-73b59.firebaseio.com',
-          storageBucket: 'quran-73b59.firebasestorage.app',
-        );
-      case Flavor.saba:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyBKmy1gOYgj4U1vYyDzDgs1fiUTNkQocXE',
-          appId: '1:542205305563:android:03004997722be7aa1aa2fe',
-          messagingSenderId: '542205305563',
-          projectId: 'quran-73b59',
-          databaseURL: 'https://quran-73b59.firebaseio.com',
-          storageBucket: 'quran-73b59.firebasestorage.app',
-        );
-      case Flavor.sad:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyBKmy1gOYgj4U1vYyDzDgs1fiUTNkQocXE',
-          appId: '1:542205305563:android:1b6f4cf9afaebd201aa2fe',
-          messagingSenderId: '542205305563',
-          projectId: 'quran-73b59',
-          databaseURL: 'https://quran-73b59.firebaseio.com',
-          storageBucket: 'quran-73b59.firebasestorage.app',
-        );
-      case Flavor.safat:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyBKmy1gOYgj4U1vYyDzDgs1fiUTNkQocXE',
-          appId: '1:542205305563:android:319735dd5276a3d91aa2fe',
-          messagingSenderId: '542205305563',
-          projectId: 'quran-73b59',
-          databaseURL: 'https://quran-73b59.firebaseio.com',
-          storageBucket: 'quran-73b59.firebasestorage.app',
-        );
-      case Flavor.sajdeh:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyBKmy1gOYgj4U1vYyDzDgs1fiUTNkQocXE',
-          appId: '1:542205305563:android:a8d234b4682638901aa2fe',
-          messagingSenderId: '542205305563',
-          projectId: 'quran-73b59',
-          databaseURL: 'https://quran-73b59.firebaseio.com',
-          storageBucket: 'quran-73b59.firebasestorage.app',
-        );
-      case Flavor.shoara:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyBKmy1gOYgj4U1vYyDzDgs1fiUTNkQocXE',
-          appId: '1:542205305563:android:156e11247c0255331aa2fe',
-          messagingSenderId: '542205305563',
-          projectId: 'quran-73b59',
-          databaseURL: 'https://quran-73b59.firebaseio.com',
-          storageBucket: 'quran-73b59.firebasestorage.app',
-        );
-      case Flavor.taha:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyBKmy1gOYgj4U1vYyDzDgs1fiUTNkQocXE',
-          appId: '1:542205305563:android:05d38b7e6eec85b71aa2fe',
-          messagingSenderId: '542205305563',
-          projectId: 'quran-73b59',
-          databaseURL: 'https://quran-73b59.firebaseio.com',
-          storageBucket: 'quran-73b59.firebasestorage.app',
-        );
-      case Flavor.talagh:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyBKmy1gOYgj4U1vYyDzDgs1fiUTNkQocXE',
-          appId: '1:542205305563:android:43e3be46eebd2ed71aa2fe',
-          messagingSenderId: '542205305563',
-          projectId: 'quran-73b59',
-          databaseURL: 'https://quran-73b59.firebaseio.com',
-          storageBucket: 'quran-73b59.firebasestorage.app',
-        );
-      case Flavor.tobeh:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyBKmy1gOYgj4U1vYyDzDgs1fiUTNkQocXE',
-          appId: '1:542205305563:android:b4a4bb89b25bb3d81aa2fe',
-          messagingSenderId: '542205305563',
-          projectId: 'quran-73b59',
-          databaseURL: 'https://quran-73b59.firebaseio.com',
-          storageBucket: 'quran-73b59.firebasestorage.app',
-        );
-      case Flavor.usef:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyBKmy1gOYgj4U1vYyDzDgs1fiUTNkQocXE',
-          appId: '1:542205305563:android:672312cc48f1b2571aa2fe',
-          messagingSenderId: '542205305563',
-          projectId: 'quran-73b59',
-          databaseURL: 'https://quran-73b59.firebaseio.com',
-          storageBucket: 'quran-73b59.firebasestorage.app',
-        );
-      case Flavor.vaqee:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyBKmy1gOYgj4U1vYyDzDgs1fiUTNkQocXE',
-          appId: '1:542205305563:android:36ef7bec4a0753e11aa2fe',
-          messagingSenderId: '542205305563',
-          projectId: 'quran-73b59',
-          databaseURL: 'https://quran-73b59.firebaseio.com',
-          storageBucket: 'quran-73b59.firebasestorage.app',
-        );
-      case Flavor.yasin:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyBKmy1gOYgj4U1vYyDzDgs1fiUTNkQocXE',
-          appId: '1:542205305563:android:408e77b253e89a911aa2fe',
-          messagingSenderId: '542205305563',
-          projectId: 'quran-73b59',
-          databaseURL: 'https://quran-73b59.firebaseio.com',
-          storageBucket: 'quran-73b59.firebasestorage.app',
-        );
-      case Flavor.yones:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyBKmy1gOYgj4U1vYyDzDgs1fiUTNkQocXE',
-          appId: '1:542205305563:android:0fbe5c1815d436da1aa2fe',
-          messagingSenderId: '542205305563',
-          projectId: 'quran-73b59',
-          databaseURL: 'https://quran-73b59.firebaseio.com',
-          storageBucket: 'quran-73b59.firebasestorage.app',
-        );
-      case Flavor.zariyat:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyBKmy1gOYgj4U1vYyDzDgs1fiUTNkQocXE',
-          appId: '1:542205305563:android:d4d49db15b2ade2d1aa2fe',
-          messagingSenderId: '542205305563',
-          projectId: 'quran-73b59',
-          databaseURL: 'https://quran-73b59.firebaseio.com',
-          storageBucket: 'quran-73b59.firebasestorage.app',
-        );
-      case Flavor.zmr:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyBKmy1gOYgj4U1vYyDzDgs1fiUTNkQocXE',
-          appId: '1:542205305563:android:06c192bd3b1d589e1aa2fe',
-          messagingSenderId: '542205305563',
-          projectId: 'quran-73b59',
-          databaseURL: 'https://quran-73b59.firebaseio.com',
-          storageBucket: 'quran-73b59.firebasestorage.app',
-        );
-      case Flavor.adiyat:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyCLHnMzRsgO6CRl3TBe3ll_-yNESsE2mgI',
-          appId: '1:807673705084:android:230aed96fe27710e730ff9',
-          messagingSenderId: '807673705084',
-          projectId: 'quran-3-b32d5',
-          storageBucket: 'quran-3-b32d5.firebasestorage.app',
-        );
-      case Flavor.ala:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyCLHnMzRsgO6CRl3TBe3ll_-yNESsE2mgI',
-          appId: '1:807673705084:android:2073b4cc33b430a7730ff9',
-          messagingSenderId: '807673705084',
-          projectId: 'quran-3-b32d5',
-          storageBucket: 'quran-3-b32d5.firebasestorage.app',
-        );
-      case Flavor.alaq:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyCLHnMzRsgO6CRl3TBe3ll_-yNESsE2mgI',
-          appId: '1:807673705084:android:1d76502443c3ccca730ff9',
-          messagingSenderId: '807673705084',
-          projectId: 'quran-3-b32d5',
-          storageBucket: 'quran-3-b32d5.firebasestorage.app',
-        );
-      case Flavor.asr:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyCLHnMzRsgO6CRl3TBe3ll_-yNESsE2mgI',
-          appId: '1:807673705084:android:d388b9e5a07a1fad730ff9',
-          messagingSenderId: '807673705084',
-          projectId: 'quran-3-b32d5',
-          storageBucket: 'quran-3-b32d5.firebasestorage.app',
-        );
-      case Flavor.balad:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyCLHnMzRsgO6CRl3TBe3ll_-yNESsE2mgI',
-          appId: '1:807673705084:android:6dcc3a2e6b1c26b3730ff9',
-          messagingSenderId: '807673705084',
-          projectId: 'quran-3-b32d5',
-          storageBucket: 'quran-3-b32d5.firebasestorage.app',
-        );
-      case Flavor.bayyina:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyCLHnMzRsgO6CRl3TBe3ll_-yNESsE2mgI',
-          appId: '1:807673705084:android:23541f897e73be6f730ff9',
-          messagingSenderId: '807673705084',
-          projectId: 'quran-3-b32d5',
-          storageBucket: 'quran-3-b32d5.firebasestorage.app',
-        );
-      case Flavor.broj:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyCLHnMzRsgO6CRl3TBe3ll_-yNESsE2mgI',
-          appId: '1:807673705084:android:7a0b1ced7be48be2730ff9',
-          messagingSenderId: '807673705084',
-          projectId: 'quran-3-b32d5',
-          storageBucket: 'quran-3-b32d5.firebasestorage.app',
-        );
-      case Flavor.fajr:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyCLHnMzRsgO6CRl3TBe3ll_-yNESsE2mgI',
-          appId: '1:807673705084:android:ba1a1f78f7f24b70730ff9',
-          messagingSenderId: '807673705084',
-          projectId: 'quran-3-b32d5',
-          storageBucket: 'quran-3-b32d5.firebasestorage.app',
-        );
-      case Flavor.fil:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyCLHnMzRsgO6CRl3TBe3ll_-yNESsE2mgI',
-          appId: '1:807673705084:android:d305df527d11becf730ff9',
-          messagingSenderId: '807673705084',
-          projectId: 'quran-3-b32d5',
-          storageBucket: 'quran-3-b32d5.firebasestorage.app',
-        );
-      case Flavor.humazah:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyCLHnMzRsgO6CRl3TBe3ll_-yNESsE2mgI',
-          appId: '1:807673705084:android:47199433b2a36c18730ff9',
-          messagingSenderId: '807673705084',
-          projectId: 'quran-3-b32d5',
-          storageBucket: 'quran-3-b32d5.firebasestorage.app',
-        );
-      case Flavor.kafirun:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyCLHnMzRsgO6CRl3TBe3ll_-yNESsE2mgI',
-          appId: '1:807673705084:android:6f57e903e674bebc730ff9',
-          messagingSenderId: '807673705084',
-          projectId: 'quran-3-b32d5',
-          storageBucket: 'quran-3-b32d5.firebasestorage.app',
-        );
-      case Flavor.kawthar:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyCLHnMzRsgO6CRl3TBe3ll_-yNESsE2mgI',
-          appId: '1:807673705084:android:df8451415dd19026730ff9',
-          messagingSenderId: '807673705084',
-          projectId: 'quran-3-b32d5',
-          storageBucket: 'quran-3-b32d5.firebasestorage.app',
-        );
-      case Flavor.layl:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyCLHnMzRsgO6CRl3TBe3ll_-yNESsE2mgI',
-          appId: '1:807673705084:android:e639bf9860638148730ff9',
-          messagingSenderId: '807673705084',
-          projectId: 'quran-3-b32d5',
-          storageBucket: 'quran-3-b32d5.firebasestorage.app',
-        );
-      case Flavor.maun:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyCLHnMzRsgO6CRl3TBe3ll_-yNESsE2mgI',
-          appId: '1:807673705084:android:9d50ee08bd40646e730ff9',
-          messagingSenderId: '807673705084',
-          projectId: 'quran-3-b32d5',
-          storageBucket: 'quran-3-b32d5.firebasestorage.app',
-        );
-      case Flavor.mtffin:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyCLHnMzRsgO6CRl3TBe3ll_-yNESsE2mgI',
-          appId: '1:807673705084:android:3f1dfc54cde3a04f730ff9',
-          messagingSenderId: '807673705084',
-          projectId: 'quran-3-b32d5',
-          storageBucket: 'quran-3-b32d5.firebasestorage.app',
-        );
-      case Flavor.nasr:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyCLHnMzRsgO6CRl3TBe3ll_-yNESsE2mgI',
-          appId: '1:807673705084:android:b6e9de608521a701730ff9',
-          messagingSenderId: '807673705084',
-          projectId: 'quran-3-b32d5',
-          storageBucket: 'quran-3-b32d5.firebasestorage.app',
-        );
-      case Flavor.nftar:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyCLHnMzRsgO6CRl3TBe3ll_-yNESsE2mgI',
-          appId: '1:807673705084:android:63406e479eea8b3e730ff9',
-          messagingSenderId: '807673705084',
-          projectId: 'quran-3-b32d5',
-          storageBucket: 'quran-3-b32d5.firebasestorage.app',
-        );
-      case Flavor.nshqaq:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyCLHnMzRsgO6CRl3TBe3ll_-yNESsE2mgI',
-          appId: '1:807673705084:android:a9b55d8a7e32b243730ff9',
-          messagingSenderId: '807673705084',
-          projectId: 'quran-3-b32d5',
-          storageBucket: 'quran-3-b32d5.firebasestorage.app',
-        );
-      case Flavor.qadr:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyCLHnMzRsgO6CRl3TBe3ll_-yNESsE2mgI',
-          appId: '1:807673705084:android:08189af20f6f71b0730ff9',
-          messagingSenderId: '807673705084',
-          projectId: 'quran-3-b32d5',
-          storageBucket: 'quran-3-b32d5.firebasestorage.app',
-        );
-      case Flavor.qariah:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyCLHnMzRsgO6CRl3TBe3ll_-yNESsE2mgI',
-          appId: '1:807673705084:android:62438c744f1f3f60730ff9',
-          messagingSenderId: '807673705084',
-          projectId: 'quran-3-b32d5',
-          storageBucket: 'quran-3-b32d5.firebasestorage.app',
-        );
-      case Flavor.qashie:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyCLHnMzRsgO6CRl3TBe3ll_-yNESsE2mgI',
-          appId: '1:807673705084:android:605cafa69f6105b5730ff9',
-          messagingSenderId: '807673705084',
-          projectId: 'quran-3-b32d5',
-          storageBucket: 'quran-3-b32d5.firebasestorage.app',
-        );
-      case Flavor.quraysh:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyCLHnMzRsgO6CRl3TBe3ll_-yNESsE2mgI',
-          appId: '1:807673705084:android:6874e01bc85bb5d5730ff9',
-          messagingSenderId: '807673705084',
-          projectId: 'quran-3-b32d5',
-          storageBucket: 'quran-3-b32d5.firebasestorage.app',
-        );
-      case Flavor.shams:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyCLHnMzRsgO6CRl3TBe3ll_-yNESsE2mgI',
-          appId: '1:807673705084:android:550db095b5071352730ff9',
-          messagingSenderId: '807673705084',
-          projectId: 'quran-3-b32d5',
-          storageBucket: 'quran-3-b32d5.firebasestorage.app',
-        );
-      case Flavor.sharh:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyCLHnMzRsgO6CRl3TBe3ll_-yNESsE2mgI',
-          appId: '1:807673705084:android:26e3dc57c9d59b0d730ff9',
-          messagingSenderId: '807673705084',
-          projectId: 'quran-3-b32d5',
-          storageBucket: 'quran-3-b32d5.firebasestorage.app',
-        );
-      case Flavor.takathur:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyCLHnMzRsgO6CRl3TBe3ll_-yNESsE2mgI',
-          appId: '1:807673705084:android:5a89690efea8e910730ff9',
-          messagingSenderId: '807673705084',
-          projectId: 'quran-3-b32d5',
-          storageBucket: 'quran-3-b32d5.firebasestorage.app',
-        );
-      case Flavor.takwir:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyCLHnMzRsgO6CRl3TBe3ll_-yNESsE2mgI',
-          appId: '1:807673705084:android:2d9b20c1fd778711730ff9',
-          messagingSenderId: '807673705084',
-          projectId: 'quran-3-b32d5',
-          storageBucket: 'quran-3-b32d5.firebasestorage.app',
-        );
-      case Flavor.taregh:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyCLHnMzRsgO6CRl3TBe3ll_-yNESsE2mgI',
-          appId: '1:807673705084:android:192caaa4d624f2d1730ff9',
-          messagingSenderId: '807673705084',
-          projectId: 'quran-3-b32d5',
-          storageBucket: 'quran-3-b32d5.firebasestorage.app',
-        );
-      case Flavor.tin:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyCLHnMzRsgO6CRl3TBe3ll_-yNESsE2mgI',
-          appId: '1:807673705084:android:d8416d61590ede4b730ff9',
-          messagingSenderId: '807673705084',
-          projectId: 'quran-3-b32d5',
-          storageBucket: 'quran-3-b32d5.firebasestorage.app',
-        );
-      case Flavor.zalzalah:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyCLHnMzRsgO6CRl3TBe3ll_-yNESsE2mgI',
-          appId: '1:807673705084:android:740aef6707a3c85e730ff9',
-          messagingSenderId: '807673705084',
-          projectId: 'quran-3-b32d5',
-          storageBucket: 'quran-3-b32d5.firebasestorage.app',
-        );
-      case Flavor.zoha:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyCLHnMzRsgO6CRl3TBe3ll_-yNESsE2mgI',
-          appId: '1:807673705084:android:4518e577c4d3d3fb730ff9',
-          messagingSenderId: '807673705084',
-          projectId: 'quran-3-b32d5',
-          storageBucket: 'quran-3-b32d5.firebasestorage.app',
-        );
-      case Flavor.abas:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyCX8GO6F7jkx3v4k7b3SDi3hAyZyZmZSgI',
-          appId: '1:410391646647:android:d3b12eeef6926db82a1832',
-          messagingSenderId: '410391646647',
-          projectId: 'quran-2',
-          storageBucket: 'quran-2.firebasestorage.app',
-        );
-      case Flavor.fath:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyCX8GO6F7jkx3v4k7b3SDi3hAyZyZmZSgI',
-          appId: '1:410391646647:android:409b4eaa291c7b3c2a1832',
-          messagingSenderId: '410391646647',
-          projectId: 'quran-2',
-          storageBucket: 'quran-2.firebasestorage.app',
-        );
-      case Flavor.fslat:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyCX8GO6F7jkx3v4k7b3SDi3hAyZyZmZSgI',
-          appId: '1:410391646647:android:45412ed184fb66c02a1832',
-          messagingSenderId: '410391646647',
-          projectId: 'quran-2',
-          storageBucket: 'quran-2.firebasestorage.app',
-        );
-      case Flavor.ghaf:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyCX8GO6F7jkx3v4k7b3SDi3hAyZyZmZSgI',
-          appId: '1:410391646647:android:e5c6a2e5575b44632a1832',
-          messagingSenderId: '410391646647',
-          projectId: 'quran-2',
-          storageBucket: 'quran-2.firebasestorage.app',
-        );
-      case Flavor.ghamar:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyCX8GO6F7jkx3v4k7b3SDi3hAyZyZmZSgI',
-          appId: '1:410391646647:android:1509ad462bc12bf32a1832',
-          messagingSenderId: '410391646647',
-          projectId: 'quran-2',
-          storageBucket: 'quran-2.firebasestorage.app',
-        );
-      case Flavor.ghiyamt:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyCX8GO6F7jkx3v4k7b3SDi3hAyZyZmZSgI',
-          appId: '1:410391646647:android:0de92bb659eba13e2a1832',
-          messagingSenderId: '410391646647',
-          projectId: 'quran-2',
-          storageBucket: 'quran-2.firebasestorage.app',
-        );
-      case Flavor.hadid:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyCX8GO6F7jkx3v4k7b3SDi3hAyZyZmZSgI',
-          appId: '1:410391646647:android:347ff0aa5e9e53a22a1832',
-          messagingSenderId: '410391646647',
-          projectId: 'quran-2',
-          storageBucket: 'quran-2.firebasestorage.app',
-        );
-      case Flavor.haqe:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyCX8GO6F7jkx3v4k7b3SDi3hAyZyZmZSgI',
-          appId: '1:410391646647:android:31693b2dcdcefeb22a1832',
-          messagingSenderId: '410391646647',
-          projectId: 'quran-2',
-          storageBucket: 'quran-2.firebasestorage.app',
-        );
-      case Flavor.hojrat:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyCX8GO6F7jkx3v4k7b3SDi3hAyZyZmZSgI',
-          appId: '1:410391646647:android:f0408def64a0cda22a1832',
-          messagingSenderId: '410391646647',
-          projectId: 'quran-2',
-          storageBucket: 'quran-2.firebasestorage.app',
-        );
-      case Flavor.jasieh:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyCX8GO6F7jkx3v4k7b3SDi3hAyZyZmZSgI',
-          appId: '1:410391646647:android:9a60af140a348d9f2a1832',
-          messagingSenderId: '410391646647',
-          projectId: 'quran-2',
-          storageBucket: 'quran-2.firebasestorage.app',
-        );
-      case Flavor.jen:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyCX8GO6F7jkx3v4k7b3SDi3hAyZyZmZSgI',
-          appId: '1:410391646647:android:cc3502228a8b95442a1832',
-          messagingSenderId: '410391646647',
-          projectId: 'quran-2',
-          storageBucket: 'quran-2.firebasestorage.app',
-        );
-      case Flavor.mdser:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyCX8GO6F7jkx3v4k7b3SDi3hAyZyZmZSgI',
-          appId: '1:410391646647:android:8197de24b01992ba2a1832',
-          messagingSenderId: '410391646647',
-          projectId: 'quran-2',
-          storageBucket: 'quran-2.firebasestorage.app',
-        );
-      case Flavor.mhmd:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyCX8GO6F7jkx3v4k7b3SDi3hAyZyZmZSgI',
-          appId: '1:410391646647:android:be3993b4856a9df72a1832',
-          messagingSenderId: '410391646647',
-          projectId: 'quran-2',
-          storageBucket: 'quran-2.firebasestorage.app',
-        );
-      case Flavor.mnfghn:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyCX8GO6F7jkx3v4k7b3SDi3hAyZyZmZSgI',
-          appId: '1:410391646647:android:ed84930c3ee088822a1832',
-          messagingSenderId: '410391646647',
-          projectId: 'quran-2',
-          storageBucket: 'quran-2.firebasestorage.app',
-        );
-      case Flavor.mojadl:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyCX8GO6F7jkx3v4k7b3SDi3hAyZyZmZSgI',
-          appId: '1:410391646647:android:b1de98564e953b872a1832',
-          messagingSenderId: '410391646647',
-          projectId: 'quran-2',
-          storageBucket: 'quran-2.firebasestorage.app',
-        );
-      case Flavor.momtahn:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyCX8GO6F7jkx3v4k7b3SDi3hAyZyZmZSgI',
-          appId: '1:410391646647:android:435e1704be9d84e92a1832',
-          messagingSenderId: '410391646647',
-          projectId: 'quran-2',
-          storageBucket: 'quran-2.firebasestorage.app',
-        );
-      case Flavor.mraj:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyCX8GO6F7jkx3v4k7b3SDi3hAyZyZmZSgI',
-          appId: '1:410391646647:android:55674417c21abeec2a1832',
-          messagingSenderId: '410391646647',
-          projectId: 'quran-2',
-          storageBucket: 'quran-2.firebasestorage.app',
-        );
-      case Flavor.mrslt:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyCX8GO6F7jkx3v4k7b3SDi3hAyZyZmZSgI',
-          appId: '1:410391646647:android:586953782d4e3b522a1832',
-          messagingSenderId: '410391646647',
-          projectId: 'quran-2',
-          storageBucket: 'quran-2.firebasestorage.app',
-        );
-      case Flavor.naba:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyCX8GO6F7jkx3v4k7b3SDi3hAyZyZmZSgI',
-          appId: '1:410391646647:android:4b71aaa8a64c7f742a1832',
-          messagingSenderId: '410391646647',
-          projectId: 'quran-2',
-          storageBucket: 'quran-2.firebasestorage.app',
-        );
-      case Flavor.nazat:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyCX8GO6F7jkx3v4k7b3SDi3hAyZyZmZSgI',
-          appId: '1:410391646647:android:02935bee587fe2592a1832',
-          messagingSenderId: '410391646647',
-          projectId: 'quran-2',
-          storageBucket: 'quran-2.firebasestorage.app',
-        );
-      case Flavor.noh:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyCX8GO6F7jkx3v4k7b3SDi3hAyZyZmZSgI',
-          appId: '1:410391646647:android:28a878198362053e2a1832',
-          messagingSenderId: '410391646647',
-          projectId: 'quran-2',
-          storageBucket: 'quran-2.firebasestorage.app',
-        );
-      case Flavor.nsan:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyCX8GO6F7jkx3v4k7b3SDi3hAyZyZmZSgI',
-          appId: '1:410391646647:android:584a56681f2012692a1832',
-          messagingSenderId: '410391646647',
-          projectId: 'quran-2',
-          storageBucket: 'quran-2.firebasestorage.app',
-        );
-      case Flavor.qafr:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyCX8GO6F7jkx3v4k7b3SDi3hAyZyZmZSgI',
-          appId: '1:410391646647:android:651bb7aac17a68ff2a1832',
-          messagingSenderId: '410391646647',
-          projectId: 'quran-2',
-          storageBucket: 'quran-2.firebasestorage.app',
-        );
-      case Flavor.qlm:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyCX8GO6F7jkx3v4k7b3SDi3hAyZyZmZSgI',
-          appId: '1:410391646647:android:4b037471ffc9ce002a1832',
-          messagingSenderId: '410391646647',
-          projectId: 'quran-2',
-          storageBucket: 'quran-2.firebasestorage.app',
-        );
-      case Flavor.saf:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyCX8GO6F7jkx3v4k7b3SDi3hAyZyZmZSgI',
-          appId: '1:410391646647:android:d1f7547e3f8f4c8e2a1832',
-          messagingSenderId: '410391646647',
-          projectId: 'quran-2',
-          storageBucket: 'quran-2.firebasestorage.app',
-        );
-      case Flavor.shora:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyCX8GO6F7jkx3v4k7b3SDi3hAyZyZmZSgI',
-          appId: '1:410391646647:android:93570a2a0dfd7faf2a1832',
-          messagingSenderId: '410391646647',
-          projectId: 'quran-2',
-          storageBucket: 'quran-2.firebasestorage.app',
-        );
-      case Flavor.tahrim:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyCX8GO6F7jkx3v4k7b3SDi3hAyZyZmZSgI',
-          appId: '1:410391646647:android:ac6c6b21afc7ecfa2a1832',
-          messagingSenderId: '410391646647',
-          projectId: 'quran-2',
-          storageBucket: 'quran-2.firebasestorage.app',
-        );
-      case Flavor.tghbn:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyCX8GO6F7jkx3v4k7b3SDi3hAyZyZmZSgI',
-          appId: '1:410391646647:android:d32ea6960b0d16c92a1832',
-          messagingSenderId: '410391646647',
-          projectId: 'quran-2',
-          storageBucket: 'quran-2.firebasestorage.app',
-        );
-      case Flavor.tor:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyCX8GO6F7jkx3v4k7b3SDi3hAyZyZmZSgI',
-          appId: '1:410391646647:android:76d61c9eea6be03d2a1832',
-          messagingSenderId: '410391646647',
-          projectId: 'quran-2',
-          storageBucket: 'quran-2.firebasestorage.app',
-        );
-      case Flavor.zkhrf:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyCX8GO6F7jkx3v4k7b3SDi3hAyZyZmZSgI',
-          appId: '1:410391646647:android:4bece824ceafac502a1832',
-          messagingSenderId: '410391646647',
-          projectId: 'quran-2',
-          storageBucket: 'quran-2.firebasestorage.app',
-        );
-      case Flavor.falaq:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyALyW_yBbgVb0Lhv82SLknD7OQz2OM0F2o',
-          appId: '1:940062647434:android:fc966f2fc789d08445b973',
-          messagingSenderId: '940062647434',
-          projectId: 'quran-kodakan',
-          storageBucket: 'quran-kodakan.firebasestorage.app',
-        );
-      case Flavor.fatiha:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyALyW_yBbgVb0Lhv82SLknD7OQz2OM0F2o',
-          appId: '1:940062647434:android:bbdf138ce4eb752645b973',
-          messagingSenderId: '940062647434',
-          projectId: 'quran-kodakan',
-          storageBucket: 'quran-kodakan.firebasestorage.app',
-        );
-      case Flavor.ikhlas:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyALyW_yBbgVb0Lhv82SLknD7OQz2OM0F2o',
-          appId: '1:940062647434:android:6ab1db324a092c5645b973',
-          messagingSenderId: '940062647434',
-          projectId: 'quran-kodakan',
-          storageBucket: 'quran-kodakan.firebasestorage.app',
-        );
-      case Flavor.masad:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyALyW_yBbgVb0Lhv82SLknD7OQz2OM0F2o',
-          appId: '1:940062647434:android:24b3fc5831e6eddf45b973',
-          messagingSenderId: '940062647434',
-          projectId: 'quran-kodakan',
-          storageBucket: 'quran-kodakan.firebasestorage.app',
-        );
-      case Flavor.nas:
-        return const FirebaseOptions(
-          apiKey: 'AIzaSyALyW_yBbgVb0Lhv82SLknD7OQz2OM0F2o',
-          appId: '1:940062647434:android:b49b6c147733fc1245b973',
-          messagingSenderId: '940062647434',
-          projectId: 'quran-kodakan',
-          storageBucket: 'quran-kodakan.firebasestorage.app',
+          apiKey: 'AIzaSyCZ4T4X7HhtfQwH3D4xGeGMJxhlUSeZ7nQ',
+          appId: '1:337075706174:android:1da2db12229e66fde2746f',
+          messagingSenderId: '337075706174',
+          projectId: 'quranmeraj2',
+          databaseURL: 'https://quranmeraj2.firebaseio.com',
+          storageBucket: 'quranmeraj2.firebasestorage.app',
         );
       case Flavor.anfal:
         return const FirebaseOptions(
-          apiKey: "AIzaSyBKmy1gOYgj4U1vYyDzDgs1fiUTNkQocXE",
-          appId: "1:542205305563:android:6c09c1624b2fe2201aa2fe",
-          messagingSenderId: "542205305563",
-          projectId: "quran-73b59",
-          storageBucket: "quran-73b59.firebasestorage.app",
+          apiKey: 'AIzaSyCZ4T4X7HhtfQwH3D4xGeGMJxhlUSeZ7nQ',
+          appId: '1:337075706174:android:d7a25e7a1e26aa10e2746f',
+          messagingSenderId: '337075706174',
+          projectId: 'quranmeraj2',
+          databaseURL: 'https://quranmeraj2.firebaseio.com',
+          storageBucket: 'quranmeraj2.firebasestorage.app',
+        );
+      case Flavor.eraf:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyCZ4T4X7HhtfQwH3D4xGeGMJxhlUSeZ7nQ',
+          appId: '1:337075706174:android:262fb7a9d2cef141e2746f',
+          messagingSenderId: '337075706174',
+          projectId: 'quranmeraj2',
+          databaseURL: 'https://quranmeraj2.firebaseio.com',
+          storageBucket: 'quranmeraj2.firebasestorage.app',
+        );
+      case Flavor.esra:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyCZ4T4X7HhtfQwH3D4xGeGMJxhlUSeZ7nQ',
+          appId: '1:337075706174:android:570ba1323a560c77e2746f',
+          messagingSenderId: '337075706174',
+          projectId: 'quranmeraj2',
+          databaseURL: 'https://quranmeraj2.firebaseio.com',
+          storageBucket: 'quranmeraj2.firebasestorage.app',
+        );
+      case Flavor.fatiha:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyCZ4T4X7HhtfQwH3D4xGeGMJxhlUSeZ7nQ',
+          appId: '1:337075706174:android:051f2ed21a351c41e2746f',
+          messagingSenderId: '337075706174',
+          projectId: 'quranmeraj2',
+          databaseURL: 'https://quranmeraj2.firebaseio.com',
+          storageBucket: 'quranmeraj2.firebasestorage.app',
+        );
+      case Flavor.forghan:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyCZ4T4X7HhtfQwH3D4xGeGMJxhlUSeZ7nQ',
+          appId: '1:337075706174:android:f2416466fea56d0ce2746f',
+          messagingSenderId: '337075706174',
+          projectId: 'quranmeraj2',
+          databaseURL: 'https://quranmeraj2.firebaseio.com',
+          storageBucket: 'quranmeraj2.firebasestorage.app',
+        );
+      case Flavor.ghesas:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyCZ4T4X7HhtfQwH3D4xGeGMJxhlUSeZ7nQ',
+          appId: '1:337075706174:android:2ef1e106cdcac103e2746f',
+          messagingSenderId: '337075706174',
+          projectId: 'quranmeraj2',
+          databaseURL: 'https://quranmeraj2.firebaseio.com',
+          storageBucket: 'quranmeraj2.firebasestorage.app',
+        );
+      case Flavor.haj:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyCZ4T4X7HhtfQwH3D4xGeGMJxhlUSeZ7nQ',
+          appId: '1:337075706174:android:42fdb78153dbfde1e2746f',
+          messagingSenderId: '337075706174',
+          projectId: 'quranmeraj2',
+          databaseURL: 'https://quranmeraj2.firebaseio.com',
+          storageBucket: 'quranmeraj2.firebasestorage.app',
+        );
+      case Flavor.hajar:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyCZ4T4X7HhtfQwH3D4xGeGMJxhlUSeZ7nQ',
+          appId: '1:337075706174:android:0759569338b8a075e2746f',
+          messagingSenderId: '337075706174',
+          projectId: 'quranmeraj2',
+          databaseURL: 'https://quranmeraj2.firebaseio.com',
+          storageBucket: 'quranmeraj2.firebasestorage.app',
+        );
+      case Flavor.hod:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyCZ4T4X7HhtfQwH3D4xGeGMJxhlUSeZ7nQ',
+          appId: '1:337075706174:android:35b6567dc9f7c005e2746f',
+          messagingSenderId: '337075706174',
+          projectId: 'quranmeraj2',
+          databaseURL: 'https://quranmeraj2.firebaseio.com',
+          storageBucket: 'quranmeraj2.firebasestorage.app',
+        );
+      case Flavor.kahf:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyCZ4T4X7HhtfQwH3D4xGeGMJxhlUSeZ7nQ',
+          appId: '1:337075706174:android:f065028fd6f5b7bce2746f',
+          messagingSenderId: '337075706174',
+          projectId: 'quranmeraj2',
+          databaseURL: 'https://quranmeraj2.firebaseio.com',
+          storageBucket: 'quranmeraj2.firebasestorage.app',
+        );
+      case Flavor.maede:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyCZ4T4X7HhtfQwH3D4xGeGMJxhlUSeZ7nQ',
+          appId: '1:337075706174:android:dcebbf146e3c6dcfe2746f',
+          messagingSenderId: '337075706174',
+          projectId: 'quranmeraj2',
+          databaseURL: 'https://quranmeraj2.firebaseio.com',
+          storageBucket: 'quranmeraj2.firebasestorage.app',
+        );
+      case Flavor.maryam:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyCZ4T4X7HhtfQwH3D4xGeGMJxhlUSeZ7nQ',
+          appId: '1:337075706174:android:f6b8f90fb46abcdde2746f',
+          messagingSenderId: '337075706174',
+          projectId: 'quranmeraj2',
+          databaseURL: 'https://quranmeraj2.firebaseio.com',
+          storageBucket: 'quranmeraj2.firebasestorage.app',
+        );
+      case Flavor.momenon:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyCZ4T4X7HhtfQwH3D4xGeGMJxhlUSeZ7nQ',
+          appId: '1:337075706174:android:54966040c39d4444e2746f',
+          messagingSenderId: '337075706174',
+          projectId: 'quranmeraj2',
+          databaseURL: 'https://quranmeraj2.firebaseio.com',
+          storageBucket: 'quranmeraj2.firebasestorage.app',
+        );
+      case Flavor.nahl:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyCZ4T4X7HhtfQwH3D4xGeGMJxhlUSeZ7nQ',
+          appId: '1:337075706174:android:12314c5e97911e97e2746f',
+          messagingSenderId: '337075706174',
+          projectId: 'quranmeraj2',
+          databaseURL: 'https://quranmeraj2.firebaseio.com',
+          storageBucket: 'quranmeraj2.firebasestorage.app',
+        );
+      case Flavor.naml:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyCZ4T4X7HhtfQwH3D4xGeGMJxhlUSeZ7nQ',
+          appId: '1:337075706174:android:8c2b3497bdbbcff3e2746f',
+          messagingSenderId: '337075706174',
+          projectId: 'quranmeraj2',
+          databaseURL: 'https://quranmeraj2.firebaseio.com',
+          storageBucket: 'quranmeraj2.firebasestorage.app',
+        );
+      case Flavor.nesa:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyCZ4T4X7HhtfQwH3D4xGeGMJxhlUSeZ7nQ',
+          appId: '1:337075706174:android:9d0f1c4012867c85e2746f',
+          messagingSenderId: '337075706174',
+          projectId: 'quranmeraj2',
+          databaseURL: 'https://quranmeraj2.firebaseio.com',
+          storageBucket: 'quranmeraj2.firebasestorage.app',
+        );
+      case Flavor.nor:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyCZ4T4X7HhtfQwH3D4xGeGMJxhlUSeZ7nQ',
+          appId: '1:337075706174:android:e210428631167ab6e2746f',
+          messagingSenderId: '337075706174',
+          projectId: 'quranmeraj2',
+          databaseURL: 'https://quranmeraj2.firebaseio.com',
+          storageBucket: 'quranmeraj2.firebasestorage.app',
+        );
+      case Flavor.raad:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyCZ4T4X7HhtfQwH3D4xGeGMJxhlUSeZ7nQ',
+          appId: '1:337075706174:android:f5403bf613779756e2746f',
+          messagingSenderId: '337075706174',
+          projectId: 'quranmeraj2',
+          databaseURL: 'https://quranmeraj2.firebaseio.com',
+          storageBucket: 'quranmeraj2.firebasestorage.app',
+        );
+      case Flavor.rom:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyCZ4T4X7HhtfQwH3D4xGeGMJxhlUSeZ7nQ',
+          appId: '1:337075706174:android:27a134969f5b34dfe2746f',
+          messagingSenderId: '337075706174',
+          projectId: 'quranmeraj2',
+          databaseURL: 'https://quranmeraj2.firebaseio.com',
+          storageBucket: 'quranmeraj2.firebasestorage.app',
+        );
+      case Flavor.shoara:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyCZ4T4X7HhtfQwH3D4xGeGMJxhlUSeZ7nQ',
+          appId: '1:337075706174:android:32e4532bdb521703e2746f',
+          messagingSenderId: '337075706174',
+          projectId: 'quranmeraj2',
+          databaseURL: 'https://quranmeraj2.firebaseio.com',
+          storageBucket: 'quranmeraj2.firebasestorage.app',
+        );
+      case Flavor.taha:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyCZ4T4X7HhtfQwH3D4xGeGMJxhlUSeZ7nQ',
+          appId: '1:337075706174:android:d777853f469d09c9e2746f',
+          messagingSenderId: '337075706174',
+          projectId: 'quranmeraj2',
+          databaseURL: 'https://quranmeraj2.firebaseio.com',
+          storageBucket: 'quranmeraj2.firebasestorage.app',
+        );
+      case Flavor.tobeh:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyCZ4T4X7HhtfQwH3D4xGeGMJxhlUSeZ7nQ',
+          appId: '1:337075706174:android:c1b0192f7fb3e48ae2746f',
+          messagingSenderId: '337075706174',
+          projectId: 'quranmeraj2',
+          databaseURL: 'https://quranmeraj2.firebaseio.com',
+          storageBucket: 'quranmeraj2.firebasestorage.app',
+        );
+      case Flavor.usef:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyCZ4T4X7HhtfQwH3D4xGeGMJxhlUSeZ7nQ',
+          appId: '1:337075706174:android:cbab5fd2abe9e76ae2746f',
+          messagingSenderId: '337075706174',
+          projectId: 'quranmeraj2',
+          databaseURL: 'https://quranmeraj2.firebaseio.com',
+          storageBucket: 'quranmeraj2.firebasestorage.app',
+        );
+      case Flavor.yones:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyCZ4T4X7HhtfQwH3D4xGeGMJxhlUSeZ7nQ',
+          appId: '1:337075706174:android:1c737a6a4d0fbe1de2746f',
+          messagingSenderId: '337075706174',
+          projectId: 'quranmeraj2',
+          databaseURL: 'https://quranmeraj2.firebaseio.com',
+          storageBucket: 'quranmeraj2.firebasestorage.app',
+        );
+
+      // فایل google-services3.json
+      case Flavor.ahghaf:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyAQPOvTVMHvUmU7U4q7KAZd8aoZ3W3hRvg',
+          appId: '1:378488799398:android:be9827ec630601201bf467',
+          messagingSenderId: '378488799398',
+          projectId: 'quranmeraj3',
+          databaseURL: 'https://quranmeraj3.firebaseio.com',
+          storageBucket: 'quranmeraj3.firebasestorage.app',
+        );
+      case Flavor.ahzab:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyAQPOvTVMHvUmU7U4q7KAZd8aoZ3W3hRvg',
+          appId: '1:378488799398:android:c9b0e5e07e1087a51bf467',
+          messagingSenderId: '378488799398',
+          projectId: 'quranmeraj3',
+          databaseURL: 'https://quranmeraj3.firebaseio.com',
+          storageBucket: 'quranmeraj3.firebasestorage.app',
+        );
+      case Flavor.alrahman:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyAQPOvTVMHvUmU7U4q7KAZd8aoZ3W3hRvg',
+          appId: '1:378488799398:android:db44a972186ea7de1bf467',
+          messagingSenderId: '378488799398',
+          projectId: 'quranmeraj3',
+          databaseURL: 'https://quranmeraj3.firebaseio.com',
+          storageBucket: 'quranmeraj3.firebasestorage.app',
+        );
+      case Flavor.dokhan:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyAQPOvTVMHvUmU7U4q7KAZd8aoZ3W3hRvg',
+          appId: '1:378488799398:android:fcc04833d120ca8f1bf467',
+          messagingSenderId: '378488799398',
+          projectId: 'quranmeraj3',
+          databaseURL: 'https://quranmeraj3.firebaseio.com',
+          storageBucket: 'quranmeraj3.firebasestorage.app',
+        );
+      case Flavor.fater:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyAQPOvTVMHvUmU7U4q7KAZd8aoZ3W3hRvg',
+          appId: '1:378488799398:android:9c7935cafc7375aa1bf467',
+          messagingSenderId: '378488799398',
+          projectId: 'quranmeraj3',
+          databaseURL: 'https://quranmeraj3.firebaseio.com',
+          storageBucket: 'quranmeraj3.firebasestorage.app',
+        );
+      case Flavor.fath:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyAQPOvTVMHvUmU7U4q7KAZd8aoZ3W3hRvg',
+          appId: '1:378488799398:android:5519882bace324ca1bf467',
+          messagingSenderId: '378488799398',
+          projectId: 'quranmeraj3',
+          databaseURL: 'https://quranmeraj3.firebaseio.com',
+          storageBucket: 'quranmeraj3.firebasestorage.app',
+        );
+      case Flavor.fslat:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyAQPOvTVMHvUmU7U4q7KAZd8aoZ3W3hRvg',
+          appId: '1:378488799398:android:727dfb7e8b122e7a1bf467',
+          messagingSenderId: '378488799398',
+          projectId: 'quranmeraj3',
+          databaseURL: 'https://quranmeraj3.firebaseio.com',
+          storageBucket: 'quranmeraj3.firebasestorage.app',
+        );
+      case Flavor.ghaf:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyAQPOvTVMHvUmU7U4q7KAZd8aoZ3W3hRvg',
+          appId: '1:378488799398:android:88719b8f0f2c76521bf467',
+          messagingSenderId: '378488799398',
+          projectId: 'quranmeraj3',
+          databaseURL: 'https://quranmeraj3.firebaseio.com',
+          storageBucket: 'quranmeraj3.firebasestorage.app',
+        );
+      case Flavor.ghamar:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyAQPOvTVMHvUmU7U4q7KAZd8aoZ3W3hRvg',
+          appId: '1:378488799398:android:7e8622849c797a9d1bf467',
+          messagingSenderId: '378488799398',
+          projectId: 'quranmeraj3',
+          databaseURL: 'https://quranmeraj3.firebaseio.com',
+          storageBucket: 'quranmeraj3.firebasestorage.app',
+        );
+      case Flavor.hadid:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyAQPOvTVMHvUmU7U4q7KAZd8aoZ3W3hRvg',
+          appId: '1:378488799398:android:eb300ae903540f541bf467',
+          messagingSenderId: '378488799398',
+          projectId: 'quranmeraj3',
+          databaseURL: 'https://quranmeraj3.firebaseio.com',
+          storageBucket: 'quranmeraj3.firebasestorage.app',
+        );
+      case Flavor.hashr:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyAQPOvTVMHvUmU7U4q7KAZd8aoZ3W3hRvg',
+          appId: '1:378488799398:android:bef8e8cdf9b3d4e81bf467',
+          messagingSenderId: '378488799398',
+          projectId: 'quranmeraj3',
+          databaseURL: 'https://quranmeraj3.firebaseio.com',
+          storageBucket: 'quranmeraj3.firebasestorage.app',
+        );
+      case Flavor.hojrat:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyAQPOvTVMHvUmU7U4q7KAZd8aoZ3W3hRvg',
+          appId: '1:378488799398:android:be971fbee9a1c4131bf467',
+          messagingSenderId: '378488799398',
+          projectId: 'quranmeraj3',
+          databaseURL: 'https://quranmeraj3.firebaseio.com',
+          storageBucket: 'quranmeraj3.firebasestorage.app',
+        );
+      case Flavor.jasieh:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyAQPOvTVMHvUmU7U4q7KAZd8aoZ3W3hRvg',
+          appId: '1:378488799398:android:f5fcff1eebdc77941bf467',
+          messagingSenderId: '378488799398',
+          projectId: 'quranmeraj3',
+          databaseURL: 'https://quranmeraj3.firebaseio.com',
+          storageBucket: 'quranmeraj3.firebasestorage.app',
+        );
+      case Flavor.loghman:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyAQPOvTVMHvUmU7U4q7KAZd8aoZ3W3hRvg',
+          appId: '1:378488799398:android:1ad804cfe28e706a1bf467',
+          messagingSenderId: '378488799398',
+          projectId: 'quranmeraj3',
+          databaseURL: 'https://quranmeraj3.firebaseio.com',
+          storageBucket: 'quranmeraj3.firebasestorage.app',
+        );
+      case Flavor.mhmd:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyAQPOvTVMHvUmU7U4q7KAZd8aoZ3W3hRvg',
+          appId: '1:378488799398:android:84cb975220e4934c1bf467',
+          messagingSenderId: '378488799398',
+          projectId: 'quranmeraj3',
+          databaseURL: 'https://quranmeraj3.firebaseio.com',
+          storageBucket: 'quranmeraj3.firebasestorage.app',
+        );
+      case Flavor.mojadl:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyAQPOvTVMHvUmU7U4q7KAZd8aoZ3W3hRvg',
+          appId: '1:378488799398:android:d09d72ba474734391bf467',
+          messagingSenderId: '378488799398',
+          projectId: 'quranmeraj3',
+          databaseURL: 'https://quranmeraj3.firebaseio.com',
+          storageBucket: 'quranmeraj3.firebasestorage.app',
+        );
+      case Flavor.momtahn:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyAQPOvTVMHvUmU7U4q7KAZd8aoZ3W3hRvg',
+          appId: '1:378488799398:android:ac97ce4b81d12bad1bf467',
+          messagingSenderId: '378488799398',
+          projectId: 'quranmeraj3',
+          databaseURL: 'https://quranmeraj3.firebaseio.com',
+          storageBucket: 'quranmeraj3.firebasestorage.app',
+        );
+      case Flavor.najm:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyAQPOvTVMHvUmU7U4q7KAZd8aoZ3W3hRvg',
+          appId: '1:378488799398:android:972bfe805e0c87811bf467',
+          messagingSenderId: '378488799398',
+          projectId: 'quranmeraj3',
+          databaseURL: 'https://quranmeraj3.firebaseio.com',
+          storageBucket: 'quranmeraj3.firebasestorage.app',
+        );
+      case Flavor.qafr:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyAQPOvTVMHvUmU7U4q7KAZd8aoZ3W3hRvg',
+          appId: '1:378488799398:android:ba55061f1724b8a01bf467',
+          messagingSenderId: '378488799398',
+          projectId: 'quranmeraj3',
+          databaseURL: 'https://quranmeraj3.firebaseio.com',
+          storageBucket: 'quranmeraj3.firebasestorage.app',
+        );
+      case Flavor.saba:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyAQPOvTVMHvUmU7U4q7KAZd8aoZ3W3hRvg',
+          appId: '1:378488799398:android:efa2e15a622f521d1bf467',
+          messagingSenderId: '378488799398',
+          projectId: 'quranmeraj3',
+          databaseURL: 'https://quranmeraj3.firebaseio.com',
+          storageBucket: 'quranmeraj3.firebasestorage.app',
+        );
+      case Flavor.sad:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyAQPOvTVMHvUmU7U4q7KAZd8aoZ3W3hRvg',
+          appId: '1:378488799398:android:67135fc6896dd6c31bf467',
+          messagingSenderId: '378488799398',
+          projectId: 'quranmeraj3',
+          databaseURL: 'https://quranmeraj3.firebaseio.com',
+          storageBucket: 'quranmeraj3.firebasestorage.app',
+        );
+      case Flavor.safat:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyAQPOvTVMHvUmU7U4q7KAZd8aoZ3W3hRvg',
+          appId: '1:378488799398:android:35e7619af51a75bb1bf467',
+          messagingSenderId: '378488799398',
+          projectId: 'quranmeraj3',
+          databaseURL: 'https://quranmeraj3.firebaseio.com',
+          storageBucket: 'quranmeraj3.firebasestorage.app',
+        );
+      case Flavor.sajdeh:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyAQPOvTVMHvUmU7U4q7KAZd8aoZ3W3hRvg',
+          appId: '1:378488799398:android:66da1e1ee61fad531bf467',
+          messagingSenderId: '378488799398',
+          projectId: 'quranmeraj3',
+          databaseURL: 'https://quranmeraj3.firebaseio.com',
+          storageBucket: 'quranmeraj3.firebasestorage.app',
+        );
+      case Flavor.shora:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyAQPOvTVMHvUmU7U4q7KAZd8aoZ3W3hRvg',
+          appId: '1:378488799398:android:e7c2005d971e5cbf1bf467',
+          messagingSenderId: '378488799398',
+          projectId: 'quranmeraj3',
+          databaseURL: 'https://quranmeraj3.firebaseio.com',
+          storageBucket: 'quranmeraj3.firebasestorage.app',
+        );
+      case Flavor.tor:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyAQPOvTVMHvUmU7U4q7KAZd8aoZ3W3hRvg',
+          appId: '1:378488799398:android:ef21e1777907c5741bf467',
+          messagingSenderId: '378488799398',
+          projectId: 'quranmeraj3',
+          databaseURL: 'https://quranmeraj3.firebaseio.com',
+          storageBucket: 'quranmeraj3.firebasestorage.app',
+        );
+      case Flavor.vaqee:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyAQPOvTVMHvUmU7U4q7KAZd8aoZ3W3hRvg',
+          appId: '1:378488799398:android:a119e5788a1afb631bf467',
+          messagingSenderId: '378488799398',
+          projectId: 'quranmeraj3',
+          databaseURL: 'https://quranmeraj3.firebaseio.com',
+          storageBucket: 'quranmeraj3.firebasestorage.app',
+        );
+      case Flavor.yasin:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyAQPOvTVMHvUmU7U4q7KAZd8aoZ3W3hRvg',
+          appId: '1:378488799398:android:bc6a4017fe871f931bf467',
+          messagingSenderId: '378488799398',
+          projectId: 'quranmeraj3',
+          databaseURL: 'https://quranmeraj3.firebaseio.com',
+          storageBucket: 'quranmeraj3.firebasestorage.app',
+        );
+      case Flavor.zariyat:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyAQPOvTVMHvUmU7U4q7KAZd8aoZ3W3hRvg',
+          appId: '1:378488799398:android:8cc6f07a4e4de4e31bf467',
+          messagingSenderId: '378488799398',
+          projectId: 'quranmeraj3',
+          databaseURL: 'https://quranmeraj3.firebaseio.com',
+          storageBucket: 'quranmeraj3.firebasestorage.app',
+        );
+      case Flavor.zkhrf:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyAQPOvTVMHvUmU7U4q7KAZd8aoZ3W3hRvg',
+          appId: '1:378488799398:android:28c05827c294c6af1bf467',
+          messagingSenderId: '378488799398',
+          projectId: 'quranmeraj3',
+          databaseURL: 'https://quranmeraj3.firebaseio.com',
+          storageBucket: 'quranmeraj3.firebasestorage.app',
+        );
+      case Flavor.zmr:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyAQPOvTVMHvUmU7U4q7KAZd8aoZ3W3hRvg',
+          appId: '1:378488799398:android:0cbdf2276eedfa6d1bf467',
+          messagingSenderId: '378488799398',
+          projectId: 'quranmeraj3',
+          databaseURL: 'https://quranmeraj3.firebaseio.com',
+          storageBucket: 'quranmeraj3.firebasestorage.app',
+        );
+
+      // فایل google-services4.json
+      case Flavor.abas:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyDAO_i-EQEsL1EmDKEZNitb7GTnmmJzKmk',
+          appId: '1:708383490402:android:38a9aa1741f666cf8f2c3b',
+          messagingSenderId: '708383490402',
+          projectId: 'quranmeraj4',
+          databaseURL: 'https://quranmeraj4.firebaseio.com',
+          storageBucket: 'quranmeraj4.firebasestorage.app',
+        );
+      case Flavor.balad:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyDAO_i-EQEsL1EmDKEZNitb7GTnmmJzKmk',
+          appId: '1:708383490402:android:6a2afc3b12ee955a8f2c3b',
+          messagingSenderId: '708383490402',
+          projectId: 'quranmeraj4',
+          databaseURL: 'https://quranmeraj4.firebaseio.com',
+          storageBucket: 'quranmeraj4.firebasestorage.app',
+        );
+      case Flavor.broj:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyDAO_i-EQEsL1EmDKEZNitb7GTnmmJzKmk',
+          appId: '1:708383490402:android:a08024c1541dce738f2c3b',
+          messagingSenderId: '708383490402',
+          projectId: 'quranmeraj4',
+          databaseURL: 'https://quranmeraj4.firebaseio.com',
+          storageBucket: 'quranmeraj4.firebasestorage.app',
+        );
+      case Flavor.fajr:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyDAO_i-EQEsL1EmDKEZNitb7GTnmmJzKmk',
+          appId: '1:708383490402:android:48675419b1415b4e8f2c3b',
+          messagingSenderId: '708383490402',
+          projectId: 'quranmeraj4',
+          databaseURL: 'https://quranmeraj4.firebaseio.com',
+          storageBucket: 'quranmeraj4.firebasestorage.app',
+        );
+      case Flavor.ghiyamt:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyDAO_i-EQEsL1EmDKEZNitb7GTnmmJzKmk',
+          appId: '1:708383490402:android:caa1773fb533cb2c8f2c3b',
+          messagingSenderId: '708383490402',
+          projectId: 'quranmeraj4',
+          databaseURL: 'https://quranmeraj4.firebaseio.com',
+          storageBucket: 'quranmeraj4.firebasestorage.app',
+        );
+      case Flavor.haqe:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyDAO_i-EQEsL1EmDKEZNitb7GTnmmJzKmk',
+          appId: '1:708383490402:android:0e7369a9c224b47b8f2c3b',
+          messagingSenderId: '708383490402',
+          projectId: 'quranmeraj4',
+          databaseURL: 'https://quranmeraj4.firebaseio.com',
+          storageBucket: 'quranmeraj4.firebasestorage.app',
+        );
+      case Flavor.jen:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyDAO_i-EQEsL1EmDKEZNitb7GTnmmJzKmk',
+          appId: '1:708383490402:android:1ebc0822bfc2439e8f2c3b',
+          messagingSenderId: '708383490402',
+          projectId: 'quranmeraj4',
+          databaseURL: 'https://quranmeraj4.firebaseio.com',
+          storageBucket: 'quranmeraj4.firebasestorage.app',
+        );
+      case Flavor.jome:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyDAO_i-EQEsL1EmDKEZNitb7GTnmmJzKmk',
+          appId: '1:708383490402:android:b1f5696f92e019338f2c3b',
+          messagingSenderId: '708383490402',
+          projectId: 'quranmeraj4',
+          databaseURL: 'https://quranmeraj4.firebaseio.com',
+          storageBucket: 'quranmeraj4.firebasestorage.app',
+        );
+      case Flavor.mdser:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyDAO_i-EQEsL1EmDKEZNitb7GTnmmJzKmk',
+          appId: '1:708383490402:android:fda9eff9202a6e378f2c3b',
+          messagingSenderId: '708383490402',
+          projectId: 'quranmeraj4',
+          databaseURL: 'https://quranmeraj4.firebaseio.com',
+          storageBucket: 'quranmeraj4.firebasestorage.app',
+        );
+      case Flavor.mnfghn:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyDAO_i-EQEsL1EmDKEZNitb7GTnmmJzKmk',
+          appId: '1:708383490402:android:a43aa17abfd8abaf8f2c3b',
+          messagingSenderId: '708383490402',
+          projectId: 'quranmeraj4',
+          databaseURL: 'https://quranmeraj4.firebaseio.com',
+          storageBucket: 'quranmeraj4.firebasestorage.app',
+        );
+      case Flavor.molk:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyDAO_i-EQEsL1EmDKEZNitb7GTnmmJzKmk',
+          appId: '1:708383490402:android:1fdb541d5802e55a8f2c3b',
+          messagingSenderId: '708383490402',
+          projectId: 'quranmeraj4',
+          databaseURL: 'https://quranmeraj4.firebaseio.com',
+          storageBucket: 'quranmeraj4.firebasestorage.app',
+        );
+      case Flavor.mozamel:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyDAO_i-EQEsL1EmDKEZNitb7GTnmmJzKmk',
+          appId: '1:708383490402:android:b3e848762a94c7468f2c3b',
+          messagingSenderId: '708383490402',
+          projectId: 'quranmeraj4',
+          databaseURL: 'https://quranmeraj4.firebaseio.com',
+          storageBucket: 'quranmeraj4.firebasestorage.app',
+        );
+      case Flavor.mraj:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyDAO_i-EQEsL1EmDKEZNitb7GTnmmJzKmk',
+          appId: '1:708383490402:android:e5e9488b250022068f2c3b',
+          messagingSenderId: '708383490402',
+          projectId: 'quranmeraj4',
+          databaseURL: 'https://quranmeraj4.firebaseio.com',
+          storageBucket: 'quranmeraj4.firebasestorage.app',
+        );
+      case Flavor.mrslt:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyDAO_i-EQEsL1EmDKEZNitb7GTnmmJzKmk',
+          appId: '1:708383490402:android:3f6e75d8f697b3588f2c3b',
+          messagingSenderId: '708383490402',
+          projectId: 'quranmeraj4',
+          databaseURL: 'https://quranmeraj4.firebaseio.com',
+          storageBucket: 'quranmeraj4.firebasestorage.app',
+        );
+      case Flavor.mtffin:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyDAO_i-EQEsL1EmDKEZNitb7GTnmmJzKmk',
+          appId: '1:708383490402:android:339904045cbd9cda8f2c3b',
+          messagingSenderId: '708383490402',
+          projectId: 'quranmeraj4',
+          databaseURL: 'https://quranmeraj4.firebaseio.com',
+          storageBucket: 'quranmeraj4.firebasestorage.app',
+        );
+      case Flavor.naba:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyDAO_i-EQEsL1EmDKEZNitb7GTnmmJzKmk',
+          appId: '1:708383490402:android:6307ee2cec7de2018f2c3b',
+          messagingSenderId: '708383490402',
+          projectId: 'quranmeraj4',
+          databaseURL: 'https://quranmeraj4.firebaseio.com',
+          storageBucket: 'quranmeraj4.firebasestorage.app',
+        );
+      case Flavor.nazat:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyDAO_i-EQEsL1EmDKEZNitb7GTnmmJzKmk',
+          appId: '1:708383490402:android:ce382c0bb252cd1b8f2c3b',
+          messagingSenderId: '708383490402',
+          projectId: 'quranmeraj4',
+          databaseURL: 'https://quranmeraj4.firebaseio.com',
+          storageBucket: 'quranmeraj4.firebasestorage.app',
+        );
+      case Flavor.nftar:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyDAO_i-EQEsL1EmDKEZNitb7GTnmmJzKmk',
+          appId: '1:708383490402:android:ccef9059a4d2ad6d8f2c3b',
+          messagingSenderId: '708383490402',
+          projectId: 'quranmeraj4',
+          databaseURL: 'https://quranmeraj4.firebaseio.com',
+          storageBucket: 'quranmeraj4.firebasestorage.app',
+        );
+      case Flavor.noh:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyDAO_i-EQEsL1EmDKEZNitb7GTnmmJzKmk',
+          appId: '1:708383490402:android:0a0cf555bc9cc3668f2c3b',
+          messagingSenderId: '708383490402',
+          projectId: 'quranmeraj4',
+          databaseURL: 'https://quranmeraj4.firebaseio.com',
+          storageBucket: 'quranmeraj4.firebasestorage.app',
+        );
+      case Flavor.nsan:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyDAO_i-EQEsL1EmDKEZNitb7GTnmmJzKmk',
+          appId: '1:708383490402:android:bbe3d55df8e3fb098f2c3b',
+          messagingSenderId: '708383490402',
+          projectId: 'quranmeraj4',
+          databaseURL: 'https://quranmeraj4.firebaseio.com',
+          storageBucket: 'quranmeraj4.firebasestorage.app',
+        );
+      case Flavor.nshqaq:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyDAO_i-EQEsL1EmDKEZNitb7GTnmmJzKmk',
+          appId: '1:708383490402:android:c5d558e693d76fc08f2c3b',
+          messagingSenderId: '708383490402',
+          projectId: 'quranmeraj4',
+          databaseURL: 'https://quranmeraj4.firebaseio.com',
+          storageBucket: 'quranmeraj4.firebasestorage.app',
+        );
+      case Flavor.qashie:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyDAO_i-EQEsL1EmDKEZNitb7GTnmmJzKmk',
+          appId: '1:708383490402:android:dd7bfdb78e76b4318f2c3b',
+          messagingSenderId: '708383490402',
+          projectId: 'quranmeraj4',
+          databaseURL: 'https://quranmeraj4.firebaseio.com',
+          storageBucket: 'quranmeraj4.firebasestorage.app',
+        );
+      case Flavor.qlm:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyDAO_i-EQEsL1EmDKEZNitb7GTnmmJzKmk',
+          appId: '1:708383490402:android:54e9f790be113a618f2c3b',
+          messagingSenderId: '708383490402',
+          projectId: 'quranmeraj4',
+          databaseURL: 'https://quranmeraj4.firebaseio.com',
+          storageBucket: 'quranmeraj4.firebasestorage.app',
+        );
+      case Flavor.saf:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyDAO_i-EQEsL1EmDKEZNitb7GTnmmJzKmk',
+          appId: '1:708383490402:android:fad818968102209a8f2c3b',
+          messagingSenderId: '708383490402',
+          projectId: 'quranmeraj4',
+          databaseURL: 'https://quranmeraj4.firebaseio.com',
+          storageBucket: 'quranmeraj4.firebasestorage.app',
+        );
+      case Flavor.shams:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyDAO_i-EQEsL1EmDKEZNitb7GTnmmJzKmk',
+          appId: '1:708383490402:android:7703230d22f508828f2c3b',
+          messagingSenderId: '708383490402',
+          projectId: 'quranmeraj4',
+          databaseURL: 'https://quranmeraj4.firebaseio.com',
+          storageBucket: 'quranmeraj4.firebasestorage.app',
+        );
+      case Flavor.tahrim:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyDAO_i-EQEsL1EmDKEZNitb7GTnmmJzKmk',
+          appId: '1:708383490402:android:5fc218d8272e9b708f2c3b',
+          messagingSenderId: '708383490402',
+          projectId: 'quranmeraj4',
+          databaseURL: 'https://quranmeraj4.firebaseio.com',
+          storageBucket: 'quranmeraj4.firebasestorage.app',
+        );
+      case Flavor.takwir:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyDAO_i-EQEsL1EmDKEZNitb7GTnmmJzKmk',
+          appId: '1:708383490402:android:b15534daec7803d98f2c3b',
+          messagingSenderId: '708383490402',
+          projectId: 'quranmeraj4',
+          databaseURL: 'https://quranmeraj4.firebaseio.com',
+          storageBucket: 'quranmeraj4.firebasestorage.app',
+        );
+      case Flavor.talagh:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyDAO_i-EQEsL1EmDKEZNitb7GTnmmJzKmk',
+          appId: '1:708383490402:android:6d59745e28d23cd78f2c3b',
+          messagingSenderId: '708383490402',
+          projectId: 'quranmeraj4',
+          databaseURL: 'https://quranmeraj4.firebaseio.com',
+          storageBucket: 'quranmeraj4.firebasestorage.app',
+        );
+      case Flavor.taregh:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyDAO_i-EQEsL1EmDKEZNitb7GTnmmJzKmk',
+          appId: '1:708383490402:android:7dbe1f9a1ab34d388f2c3b',
+          messagingSenderId: '708383490402',
+          projectId: 'quranmeraj4',
+          databaseURL: 'https://quranmeraj4.firebaseio.com',
+          storageBucket: 'quranmeraj4.firebasestorage.app',
+        );
+      case Flavor.tghbn:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyDAO_i-EQEsL1EmDKEZNitb7GTnmmJzKmk',
+          appId: '1:708383490402:android:4e543fb44c2032228f2c3b',
+          messagingSenderId: '708383490402',
+          projectId: 'quranmeraj4',
+          databaseURL: 'https://quranmeraj4.firebaseio.com',
+          storageBucket: 'quranmeraj4.firebasestorage.app',
+        );
+
+      // فایل google-services5.json
+      case Flavor.adiyat:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyB6F25RAEwQnzB-vMM6Lq0Fho6-OZ8uBrA',
+          appId: '1:598464677410:android:9bbda3f46e9c79ad04ec7b',
+          messagingSenderId: '598464677410',
+          projectId: 'quranmeraj5',
+          databaseURL: 'https://quranmeraj5.firebaseio.com',
+          storageBucket: 'quranmeraj5.firebasestorage.app',
+        );
+      case Flavor.ala:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyB6F25RAEwQnzB-vMM6Lq0Fho6-OZ8uBrA',
+          appId: '1:598464677410:android:9897627db082a04104ec7b',
+          messagingSenderId: '598464677410',
+          projectId: 'quranmeraj5',
+          databaseURL: 'https://quranmeraj5.firebaseio.com',
+          storageBucket: 'quranmeraj5.firebasestorage.app',
+        );
+      case Flavor.alaq:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyB6F25RAEwQnzB-vMM6Lq0Fho6-OZ8uBrA',
+          appId: '1:598464677410:android:f45f249f1977b67304ec7b',
+          messagingSenderId: '598464677410',
+          projectId: 'quranmeraj5',
+          databaseURL: 'https://quranmeraj5.firebaseio.com',
+          storageBucket: 'quranmeraj5.firebasestorage.app',
+        );
+      case Flavor.asr:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyB6F25RAEwQnzB-vMM6Lq0Fho6-OZ8uBrA',
+          appId: '1:598464677410:android:0a3cdc66891fc6b004ec7b',
+          messagingSenderId: '598464677410',
+          projectId: 'quranmeraj5',
+          databaseURL: 'https://quranmeraj5.firebaseio.com',
+          storageBucket: 'quranmeraj5.firebasestorage.app',
+        );
+      case Flavor.bayyina:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyB6F25RAEwQnzB-vMM6Lq0Fho6-OZ8uBrA',
+          appId: '1:598464677410:android:d76ddaa2f72b142804ec7b',
+          messagingSenderId: '598464677410',
+          projectId: 'quranmeraj5',
+          databaseURL: 'https://quranmeraj5.firebaseio.com',
+          storageBucket: 'quranmeraj5.firebasestorage.app',
+        );
+      case Flavor.falaq:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyB6F25RAEwQnzB-vMM6Lq0Fho6-OZ8uBrA',
+          appId: '1:598464677410:android:20978eff2fc9bc2d04ec7b',
+          messagingSenderId: '598464677410',
+          projectId: 'quranmeraj5',
+          databaseURL: 'https://quranmeraj5.firebaseio.com',
+          storageBucket: 'quranmeraj5.firebasestorage.app',
+        );
+      case Flavor.fil:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyB6F25RAEwQnzB-vMM6Lq0Fho6-OZ8uBrA',
+          appId: '1:598464677410:android:269d07063846872104ec7b',
+          messagingSenderId: '598464677410',
+          projectId: 'quranmeraj5',
+          databaseURL: 'https://quranmeraj5.firebaseio.com',
+          storageBucket: 'quranmeraj5.firebasestorage.app',
+        );
+      case Flavor.humazah:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyB6F25RAEwQnzB-vMM6Lq0Fho6-OZ8uBrA',
+          appId: '1:598464677410:android:2be5b6fe08f4cc0604ec7b',
+          messagingSenderId: '598464677410',
+          projectId: 'quranmeraj5',
+          databaseURL: 'https://quranmeraj5.firebaseio.com',
+          storageBucket: 'quranmeraj5.firebasestorage.app',
+        );
+      case Flavor.ikhlas:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyB6F25RAEwQnzB-vMM6Lq0Fho6-OZ8uBrA',
+          appId: '1:598464677410:android:7649d98bd20b315f04ec7b',
+          messagingSenderId: '598464677410',
+          projectId: 'quranmeraj5',
+          databaseURL: 'https://quranmeraj5.firebaseio.com',
+          storageBucket: 'quranmeraj5.firebasestorage.app',
+        );
+      case Flavor.kafirun:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyB6F25RAEwQnzB-vMM6Lq0Fho6-OZ8uBrA',
+          appId: '1:598464677410:android:6f8197e75664f2a304ec7b',
+          messagingSenderId: '598464677410',
+          projectId: 'quranmeraj5',
+          databaseURL: 'https://quranmeraj5.firebaseio.com',
+          storageBucket: 'quranmeraj5.firebasestorage.app',
+        );
+      case Flavor.kawthar:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyB6F25RAEwQnzB-vMM6Lq0Fho6-OZ8uBrA',
+          appId: '1:598464677410:android:73aea6f434891be404ec7b',
+          messagingSenderId: '598464677410',
+          projectId: 'quranmeraj5',
+          databaseURL: 'https://quranmeraj5.firebaseio.com',
+          storageBucket: 'quranmeraj5.firebasestorage.app',
+        );
+      case Flavor.layl:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyB6F25RAEwQnzB-vMM6Lq0Fho6-OZ8uBrA',
+          appId: '1:598464677410:android:e575ea1000ada25d04ec7b',
+          messagingSenderId: '598464677410',
+          projectId: 'quranmeraj5',
+          databaseURL: 'https://quranmeraj5.firebaseio.com',
+          storageBucket: 'quranmeraj5.firebasestorage.app',
+        );
+      case Flavor.masad:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyB6F25RAEwQnzB-vMM6Lq0Fho6-OZ8uBrA',
+          appId: '1:598464677410:android:6b7dbd0d7237a34504ec7b',
+          messagingSenderId: '598464677410',
+          projectId: 'quranmeraj5',
+          databaseURL: 'https://quranmeraj5.firebaseio.com',
+          storageBucket: 'quranmeraj5.firebasestorage.app',
+        );
+      case Flavor.maun:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyB6F25RAEwQnzB-vMM6Lq0Fho6-OZ8uBrA',
+          appId: '1:598464677410:android:e541672c1ac55c6804ec7b',
+          messagingSenderId: '598464677410',
+          projectId: 'quranmeraj5',
+          databaseURL: 'https://quranmeraj5.firebaseio.com',
+          storageBucket: 'quranmeraj5.firebasestorage.app',
+        );
+      case Flavor.nas:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyB6F25RAEwQnzB-vMM6Lq0Fho6-OZ8uBrA',
+          appId: '1:598464677410:android:1968467ada8516bc04ec7b',
+          messagingSenderId: '598464677410',
+          projectId: 'quranmeraj5',
+          databaseURL: 'https://quranmeraj5.firebaseio.com',
+          storageBucket: 'quranmeraj5.firebasestorage.app',
+        );
+      case Flavor.nasr:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyB6F25RAEwQnzB-vMM6Lq0Fho6-OZ8uBrA',
+          appId: '1:598464677410:android:a612a184d907fe8204ec7b',
+          messagingSenderId: '598464677410',
+          projectId: 'quranmeraj5',
+          databaseURL: 'https://quranmeraj5.firebaseio.com',
+          storageBucket: 'quranmeraj5.firebasestorage.app',
+        );
+      case Flavor.qadr:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyB6F25RAEwQnzB-vMM6Lq0Fho6-OZ8uBrA',
+          appId: '1:598464677410:android:bb36abc160e56a3104ec7b',
+          messagingSenderId: '598464677410',
+          projectId: 'quranmeraj5',
+          databaseURL: 'https://quranmeraj5.firebaseio.com',
+          storageBucket: 'quranmeraj5.firebasestorage.app',
+        );
+      case Flavor.qariah:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyB6F25RAEwQnzB-vMM6Lq0Fho6-OZ8uBrA',
+          appId: '1:598464677410:android:d118056eb9e1e9f404ec7b',
+          messagingSenderId: '598464677410',
+          projectId: 'quranmeraj5',
+          databaseURL: 'https://quranmeraj5.firebaseio.com',
+          storageBucket: 'quranmeraj5.firebasestorage.app',
+        );
+      case Flavor.quraysh:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyB6F25RAEwQnzB-vMM6Lq0Fho6-OZ8uBrA',
+          appId: '1:598464677410:android:a95facedbec2160d04ec7b',
+          messagingSenderId: '598464677410',
+          projectId: 'quranmeraj5',
+          databaseURL: 'https://quranmeraj5.firebaseio.com',
+          storageBucket: 'quranmeraj5.firebasestorage.app',
+        );
+      case Flavor.sharh:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyB6F25RAEwQnzB-vMM6Lq0Fho6-OZ8uBrA',
+          appId: '1:598464677410:android:97bd8b3a7f562f2604ec7b',
+          messagingSenderId: '598464677410',
+          projectId: 'quranmeraj5',
+          databaseURL: 'https://quranmeraj5.firebaseio.com',
+          storageBucket: 'quranmeraj5.firebasestorage.app',
+        );
+      case Flavor.takathur:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyB6F25RAEwQnzB-vMM6Lq0Fho6-OZ8uBrA',
+          appId: '1:598464677410:android:da7a3ac5260843c704ec7b',
+          messagingSenderId: '598464677410',
+          projectId: 'quranmeraj5',
+          databaseURL: 'https://quranmeraj5.firebaseio.com',
+          storageBucket: 'quranmeraj5.firebasestorage.app',
+        );
+      case Flavor.tin:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyB6F25RAEwQnzB-vMM6Lq0Fho6-OZ8uBrA',
+          appId: '1:598464677410:android:f83830c29a276e0904ec7b',
+          messagingSenderId: '598464677410',
+          projectId: 'quranmeraj5',
+          databaseURL: 'https://quranmeraj5.firebaseio.com',
+          storageBucket: 'quranmeraj5.firebasestorage.app',
+        );
+      case Flavor.zalzalah:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyB6F25RAEwQnzB-vMM6Lq0Fho6-OZ8uBrA',
+          appId: '1:598464677410:android:ed47a532be8a385804ec7b',
+          messagingSenderId: '598464677410',
+          projectId: 'quranmeraj5',
+          databaseURL: 'https://quranmeraj5.firebaseio.com',
+          storageBucket: 'quranmeraj5.firebasestorage.app',
+        );
+      case Flavor.zoha:
+        return const FirebaseOptions(
+          apiKey: 'AIzaSyB6F25RAEwQnzB-vMM6Lq0Fho6-OZ8uBrA',
+          appId: '1:598464677410:android:20f827f2a25d116a04ec7b',
+          messagingSenderId: '598464677410',
+          projectId: 'quranmeraj5',
+          databaseURL: 'https://quranmeraj5.firebaseio.com',
+          storageBucket: 'quranmeraj5.firebasestorage.app',
         );
     }
 

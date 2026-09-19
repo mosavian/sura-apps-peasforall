@@ -5,16 +5,16 @@ final class VerseEntity extends Entity {
     required super.id,
     required this.arabic,
     required this.chapter,
-    required this.verse,
+    this.verse,
     this.juz,
     this.hizb,
     this.page,
     this.translate,
   });
 
-  final String arabic;
+  String arabic;
   final int chapter;
-  final int verse;
+  final int? verse;
   final int? juz;
   final int? hizb;
   final int? page;
